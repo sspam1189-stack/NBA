@@ -69472,6 +69472,90 @@
       "games": [],
       "summaryText": "RECORD (graded picks only)\n\n  SPREAD:   158-142-6  (52.7%)  +1.8u\n  TOTAL:    153-111-3  (58.0%)  +30.9u",
       "ranAt": "09/06/2026, 12:28:47 PM"
+    },
+    {
+      "weekKey": "2026_W1",
+      "season": 2026,
+      "week": 1,
+      "date": "20260907",
+      "dateDisplay": "2026 Week 1",
+      "burnIn": true,
+      "weightsUsed": {
+        "wPassOff": 6.982,
+        "wRushOff": 4.583,
+        "wPassDef": 2.958,
+        "wRushDef": 0.021,
+        "wPace": 0.324,
+        "wRZ": 0.076,
+        "hfa": 2.945,
+        "wCPOE": 0.8,
+        "wPressure": -0.5,
+        "wSuccessRate": 1.5,
+        "wQBEPA": 2.0,
+        "wTurnover": 0.8,
+        "wPassMatchup": 1.0,
+        "wRushMatchup": 0.5,
+        "wPaceXEPA": 0.3,
+        "wThirdDown": 1.0,
+        "constant": -1.378,
+        "sprHigh": 3.0,
+        "ouHigh": 4.0,
+        "sprEliteBump": 2.0,
+        "ouEliteBump": 2.0,
+        "probHigh": 0.57,
+        "probOUHigh": 0.64,
+        "probElite": 0.63,
+        "probOUElite": 0.64,
+        "coefficients": [
+          2.633003606612212,
+          5.364444716579579,
+          -0.40541844159799134,
+          -3.064917119199841,
+          0.07755459496917025,
+          -3.032802180056292,
+          0.0,
+          0.4203848602866193,
+          0.0,
+          1.0129367576491741,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5102087219331306,
+          -2.21282338099015,
+          -0.06386223668882758,
+          -0.43537350728913504
+        ],
+        "intercept": 2.5565342931211954,
+        "alpha": 100.0,
+        "feature_columns": [
+          "passOffEPA_diff",
+          "rushOffEPA_diff",
+          "passDefEPA_diff",
+          "rushDefEPA_diff",
+          "pace_diff",
+          "rz_diff",
+          "home_flag",
+          "cpoe_diff",
+          "pressure_diff",
+          "success_rate_diff",
+          "qb_epa_diff",
+          "turnover_diff",
+          "injury_delta_a",
+          "injury_delta_b",
+          "pass_matchup",
+          "rush_matchup",
+          "pace_x_epa",
+          "third_down_diff"
+        ],
+        "n_train": 798,
+        "residual_var": 193.9385400652998,
+        "r_squared": 0.06163861807474502,
+        "source": "ridge_cv"
+      },
+      "games": [],
+      "summaryText": "RECORD (graded picks only)\n\n  SPREAD:   158-142-6  (52.7%)  +1.8u\n  TOTAL:    153-111-3  (58.0%)  +30.9u",
+      "ranAt": "09/07/2026, 04:33:04 AM"
     }
   ],
   "meta": {
@@ -76625,7 +76709,15 @@
           "playerId": "",
           "status": "questionable",
           "position": "WR",
-          "description": "Nacua (groin), per head coach Sean McVay, is \"making good progress\" in his recovery, Sarah Barshop of ESPN.com reports.",
+          "description": "Rams head coach Sean McVay said Sunday that Nacua (core) is expected to play Thursday against the 49ers in Melbourne, Australia, Nate Atkins of The Athletic reports.",
+          "tier": "high"
+        },
+        {
+          "player": "Myles Garrett",
+          "playerId": "",
+          "status": "questionable",
+          "position": "DE",
+          "description": "Rams head coach Sean McVay said that Garrett (knee) will practice Sunday, Nate Atkins of The Athletic reports.",
           "tier": "high"
         },
         {
@@ -76634,14 +76726,6 @@
           "status": "out",
           "position": "CB",
           "description": "ir",
-          "tier": "high"
-        },
-        {
-          "player": "Myles Garrett",
-          "playerId": "",
-          "status": "questionable",
-          "position": "DE",
-          "description": "Head coach Sean McVay said Monday that Garrett (knee) is making \"really good progress\" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports.",
           "tier": "high"
         },
         {
@@ -76859,11 +76943,27 @@
       ],
       "New England Patriots": [
         {
+          "player": "Christian Barmore",
+          "playerId": "",
+          "status": "questionable",
+          "position": "DT",
+          "description": "Barmore (knee) did not participate in Sunday's practice.",
+          "tier": "medium"
+        },
+        {
+          "player": "Ben Brown",
+          "playerId": "",
+          "status": "questionable",
+          "position": "C",
+          "description": "questionable",
+          "tier": "medium"
+        },
+        {
           "player": "TreVeyon Henderson",
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports.",
+          "description": "Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports.",
           "tier": "medium"
         },
         {
@@ -77124,14 +77224,6 @@
           "status": "questionable",
           "position": "CB",
           "description": "questionable",
-          "tier": "high"
-        },
-        {
-          "player": "Jarrick Bernard-Converse",
-          "playerId": "",
-          "status": "out",
-          "position": "CB",
-          "description": "ir",
           "tier": "high"
         }
       ],
@@ -77407,6 +77499,30 @@
       ],
       "San Francisco 49ers": [
         {
+          "player": "Nick Bosa",
+          "playerId": "",
+          "status": "questionable",
+          "position": "DE",
+          "description": "Bosa (knee) was not participating in drills in the early portion of Monday's practice that was open to the media, Matt Maiocco of NBC Sports Bay Area reports.",
+          "tier": "high"
+        },
+        {
+          "player": "Christian McCaffrey",
+          "playerId": "",
+          "status": "questionable",
+          "position": "RB",
+          "description": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports.",
+          "tier": "medium"
+        },
+        {
+          "player": "George Kittle",
+          "playerId": "",
+          "status": "questionable",
+          "position": "TE",
+          "description": "Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports.",
+          "tier": "medium"
+        },
+        {
           "player": "Sam Okuayinonu",
           "playerId": "",
           "status": "out",
@@ -77423,28 +77539,12 @@
           "tier": "low"
         },
         {
-          "player": "Nick Bosa",
-          "playerId": "",
-          "status": "questionable",
-          "position": "DE",
-          "description": "Bosa (knee) is making the trip to Australia and still could have a chance to play in the 49ers' Week 1 matchup against the Rams in Melbourne, Ian Rapoport of ESPN and NFL Network reports.",
-          "tier": "high"
-        },
-        {
           "player": "Mike Evans",
           "playerId": "",
           "status": "questionable",
           "position": "WR",
           "description": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports.",
           "tier": "high"
-        },
-        {
-          "player": "George Kittle",
-          "playerId": "",
-          "status": "questionable",
-          "position": "TE",
-          "description": "Kittle (Achilles) will travel to Australia with the 49ers and \"is trending in the right direction to play\" in the season opener Sept. 10 versus the Rams, Ian Rapoport of NFL Network reports.",
-          "tier": "medium"
         },
         {
           "player": "Nick Martin",
@@ -77461,14 +77561,6 @@
           "position": "CB",
           "description": "The 49ers placed Hobbs (groin) on injured reserve Tuesday, Aaron Wilson of KPRC 2 Houston reports.",
           "tier": "high"
-        },
-        {
-          "player": "Christian McCaffrey",
-          "playerId": "",
-          "status": "questionable",
-          "position": "RB",
-          "description": "McCaffrey (undisclosed) suited up and went through drills at Tuesday's practice, according to Matt Lively of CBS Sports Bay Area.",
-          "tier": "medium"
         },
         {
           "player": "Nick Zakelj",
@@ -77545,11 +77637,43 @@
       ],
       "Seattle Seahawks": [
         {
+          "player": "Ty Okada",
+          "playerId": "",
+          "status": "questionable",
+          "position": "S",
+          "description": "Okada (hamstring) did not participate in Sunday's practice, John Boyle of the Seahawks' official site reports.",
+          "tier": "medium"
+        },
+        {
+          "player": "Josh Jones",
+          "playerId": "",
+          "status": "questionable",
+          "position": "G",
+          "description": "questionable",
+          "tier": "low"
+        },
+        {
+          "player": "Anthony Bradford",
+          "playerId": "",
+          "status": "questionable",
+          "position": "G",
+          "description": "questionable",
+          "tier": "low"
+        },
+        {
+          "player": "Tory Horton",
+          "playerId": "",
+          "status": "questionable",
+          "position": "WR",
+          "description": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports.",
+          "tier": "high"
+        },
+        {
           "player": "Nick Emmanwori",
           "playerId": "",
           "status": "questionable",
           "position": "S",
-          "description": "There is uncertainty about whether Emmanwori (ankle) will be cleared to play against the Patriots on Wednesday, Gregg Bell of The Tacoma News Tribune reports.",
+          "description": "Emmanwori (ankle) was a limited practice participant Sunday, John Boyle of the Seahawks' official site reports.",
           "tier": "medium"
         },
         {
@@ -77585,51 +77709,11 @@
           "tier": "high"
         },
         {
-          "player": "Tory Horton",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "Horton (undisclosed) is not dealing with a long-term injury, Corbin K. Smith of SI.com reports.",
-          "tier": "high"
-        },
-        {
           "player": "Mason Richman",
           "playerId": "",
           "status": "out",
           "position": "G",
           "description": "The Seahawks placed Richman (leg) on injured reserve Tuesday, Brady Henderson of ESPN.com reports.",
-          "tier": "low"
-        },
-        {
-          "player": "Bud Clark",
-          "playerId": "",
-          "status": "out",
-          "position": "S",
-          "description": "The Seahawks placed Clark (ankle) on injured reserve Tuesday, Brady Henderson of ESPN.com reports.",
-          "tier": "medium"
-        },
-        {
-          "player": "Jake Bobo",
-          "playerId": "",
-          "status": "out",
-          "position": "WR",
-          "description": "The Seahawks placed Bobo (knee) on injured reserve Saturday, John Boyle of the team's official site reports.",
-          "tier": "high"
-        },
-        {
-          "player": "Emanuel Wilson",
-          "playerId": "",
-          "status": "questionable",
-          "position": "RB",
-          "description": "questionable",
-          "tier": "medium"
-        },
-        {
-          "player": "Robbie Ouzts",
-          "playerId": "",
-          "status": "out",
-          "position": "FB",
-          "description": "ir",
           "tier": "low"
         }
       ],

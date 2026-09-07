@@ -1,12 +1,12 @@
 {
  "sport": "MLB",
  "type": "allml-systems-table",
- "generated": "2026-09-07T21:06:19Z",
+ "generated": "2026-09-07T23:09:01Z",
  "span": {
   "from": "2026-03-25",
   "to": "2026-09-07"
  },
- "games": 2156,
+ "games": 2158,
  "note": "Systems derived from mlb-all-ml.json alone -- moneylines, totals, probables, scores -- with no input from the mismatch model. Replayed as-of each game date: a game's own result is never in the features that select it. Each system carries the blind baseline it is measured against: backing every side at market price for moneylines, blind over or blind under for totals.",
  "baselines": {
   "side": -3.2,
@@ -643,15 +643,15 @@
    "status": "shadow",
    "ladder_fails": false,
    "record": {
-    "w": 242,
+    "w": 243,
     "l": 181,
-    "n": 423,
-    "units": 17.15,
-    "roi": 4.1
+    "n": 424,
+    "units": 17.98,
+    "roi": 4.2
    },
    "halves": [
     3.6,
-    4.5
+    4.9
    ],
    "monthly": [
     {
@@ -704,14 +704,14 @@
     },
     {
      "month": "2026-09",
-     "w": 8,
+     "w": 9,
      "l": 10,
-     "n": 18,
-     "units": -3.43,
-     "roi": -19.0
+     "n": 19,
+     "units": -2.59,
+     "roi": -13.7
     }
    ],
-   "per_day": 2.58
+   "per_day": 2.59
   },
   {
    "baseline_key": "side",
@@ -799,15 +799,15 @@
    "status": "shadow",
    "ladder_fails": false,
    "record": {
-    "w": 131,
-    "l": 107,
-    "n": 238,
-    "units": 10.74,
-    "roi": 4.5
+    "w": 132,
+    "l": 108,
+    "n": 240,
+    "units": 10.59,
+    "roi": 4.4
    },
    "halves": [
     2.1,
-    7.2
+    6.9
    ],
    "monthly": [
     {
@@ -860,14 +860,14 @@
     },
     {
      "month": "2026-09",
-     "w": 2,
-     "l": 3,
-     "n": 5,
-     "units": -1.1,
-     "roi": -22.1
+     "w": 3,
+     "l": 4,
+     "n": 7,
+     "units": -1.26,
+     "roi": -17.9
     }
    ],
-   "per_day": 1.45
+   "per_day": 1.46
   },
   {
    "baseline_key": "under",
@@ -881,15 +881,15 @@
    "status": "shadow",
    "ladder_fails": false,
    "record": {
-    "w": 100,
+    "w": 101,
     "l": 71,
-    "n": 171,
-    "units": 18.91,
-    "roi": 11.1
+    "n": 172,
+    "units": 19.74,
+    "roi": 11.5
    },
    "halves": [
     8.9,
-    12.5
+    13.2
    ],
    "monthly": [
     {
@@ -934,77 +934,17 @@
     },
     {
      "month": "2026-09",
-     "w": 2,
+     "w": 3,
      "l": 2,
-     "n": 4,
-     "units": -0.22,
-     "roi": -5.5
+     "n": 5,
+     "units": 0.61,
+     "roi": 12.2
     }
    ],
-   "per_day": 1.04
+   "per_day": 1.05
   }
  ],
  "today": [
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -102,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 824062,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T18:10:00Z",
-   "matchup": "ARI @ KC",
-   "away": "ARI",
-   "home": "KC",
-   "total": 9.5
-  },
-  {
-   "rule": "pickem-under",
-   "market": "totals",
-   "pick": "under",
-   "price": -120,
-   "side": "U",
-   "why": "favorite only -112 at a 9.5 total",
-   "gamePk": 824062,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T18:10:00Z",
-   "matchup": "ARI @ KC",
-   "away": "ARI",
-   "home": "KC",
-   "total": 9.5
-  },
-  {
-   "rule": "under-juice",
-   "market": "totals",
-   "pick": "under",
-   "price": -120,
-   "side": "U",
-   "why": "book laying -120 on the under",
-   "gamePk": 824062,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T18:10:00Z",
-   "matchup": "ARI @ KC",
-   "away": "ARI",
-   "home": "KC",
-   "total": 9.5
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -118,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 824229,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T19:10:00Z",
-   "matchup": "MIN @ DET",
-   "away": "MIN",
-   "home": "DET",
-   "total": 7.5
-  },
   {
    "rule": "monday-over",
    "market": "totals",
@@ -1039,7 +979,7 @@
    "rule": "monday-over",
    "market": "totals",
    "pick": "over",
-   "price": -122,
+   "price": -124,
    "side": "O",
    "why": "Monday: travel day, light schedule, series openers",
    "gamePk": 823175,

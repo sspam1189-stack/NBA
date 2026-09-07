@@ -162860,6 +162860,25 @@
       "opp_pitcher_id": 663542,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 5,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 2,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 3,
+      "opp_pitcher_id": 675512,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "686797": [
@@ -165425,6 +165444,25 @@
       "tb": 5,
       "lineup_slot": 0,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 5,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -169896,6 +169934,25 @@
       "opp_pitcher_id": 663542,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 5,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 675512,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "680777": [
@@ -171397,6 +171454,25 @@
       "tb": 0,
       "lineup_slot": 0,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 5,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 1,
+      "tb": 0,
+      "lineup_slot": 4,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -173451,6 +173527,25 @@
       "tb": 1,
       "lineup_slot": 6,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -175676,6 +175771,25 @@
       "tb": 0,
       "lineup_slot": 7,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 3,
+      "ab": 3,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 1,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 5,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -180641,6 +180755,25 @@
       "tb": 0,
       "lineup_slot": 0,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 5,
+      "ab": 2,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 2,
+      "k": 0,
+      "hbp": 1,
+      "tb": 1,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -277305,6 +277438,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 4,
+      "h": 3,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 1,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 6,
+      "lineup_slot": 4,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "805808": [
@@ -279967,6 +280119,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 1,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 4,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "681481": [
@@ -284208,6 +284379,25 @@
       "opp_pitcher_id": 800048,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "650402": [
@@ -285825,6 +286015,25 @@
       "opp_pitcher_id": 800048,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "678009": [
@@ -288603,6 +288812,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 3,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "690993": [
@@ -291113,6 +291341,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 3,
+      "ab": 2,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 1,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "666023": [
@@ -397186,6 +397433,25 @@
       "opp_pitcher_id": 663567,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "694374": [
@@ -398744,6 +399010,25 @@
       "tb": 1,
       "lineup_slot": 1,
       "opp_pitcher_id": 663567,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 3,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -401313,6 +401598,25 @@
       "opp_pitcher_id": 663567,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 5,
+      "ab": 4,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 4,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "606466": [
@@ -403650,6 +403954,25 @@
       "tb": 1,
       "lineup_slot": 2,
       "opp_pitcher_id": 663567,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 5,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -406314,6 +406637,25 @@
       "opp_pitcher_id": 663567,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 5,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "672515": [
@@ -408480,6 +408822,25 @@
       "tb": 2,
       "lineup_slot": 3,
       "opp_pitcher_id": 663567,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 5,
+      "ab": 5,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 3,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -411161,6 +411522,25 @@
       "tb": 3,
       "lineup_slot": 5,
       "opp_pitcher_id": 663567,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 2,
+      "ab": 2,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -548928,6 +549308,25 @@
       "opp_pitcher_id": 453286,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 4,
+      "h": 1,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 571882,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "663697": [
@@ -551687,6 +552086,25 @@
       "opp_pitcher_id": 681293,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 8,
+      "opp_pitcher_id": 571882,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "521692": [
@@ -554252,6 +554670,25 @@
       "tb": 4,
       "lineup_slot": 4,
       "opp_pitcher_id": 681293,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 5,
+      "h": 3,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 4,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 571882,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -557182,6 +557619,25 @@
       "tb": 4,
       "lineup_slot": 3,
       "opp_pitcher_id": 681293,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 4,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 3,
+      "opp_pitcher_id": 571882,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -565664,6 +566120,25 @@
       "tb": 3,
       "lineup_slot": 2,
       "opp_pitcher_id": 681293,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 1,
+      "tb": 0,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 571882,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -592233,6 +592708,25 @@
       "opp_pitcher_id": 800048,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 3,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 1,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 3,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "663330": [
@@ -642087,6 +642581,25 @@
       "opp_pitcher_id": 681293,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 4,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 9,
+      "opp_pitcher_id": 571882,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "642086": [
@@ -656741,6 +657254,25 @@
       "tb": 2,
       "lineup_slot": 6,
       "opp_pitcher_id": 681293,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 5,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 571882,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -675268,6 +675800,25 @@
       "tb": 1,
       "lineup_slot": 8,
       "opp_pitcher_id": 663567,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 4,
+      "ab": 4,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -697538,6 +698089,25 @@
       "opp_pitcher_id": 650633,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "666185": [
@@ -705519,6 +706089,25 @@
       "tb": 1,
       "lineup_slot": 6,
       "opp_pitcher_id": 453286,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 5,
+      "ab": 5,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 571882,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -714028,6 +714617,25 @@
       "tb": 0,
       "lineup_slot": 2,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 1,
+      "ab": 0,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -729365,6 +729973,25 @@
       "opp_pitcher_id": 700241,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "553869": [
@@ -765716,6 +766343,25 @@
       "opp_pitcher_id": 663567,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 1,
+      "ab": 0,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 702070,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "699625": [
@@ -773526,6 +774172,25 @@
       "tb": 0,
       "lineup_slot": 9,
       "opp_pitcher_id": 814490,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "ARI",
+      "opp": "KC",
+      "pa": 4,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 9,
+      "opp_pitcher_id": 702070,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -821843,6 +822508,25 @@
       "opp_pitcher_id": 681293,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 4,
+      "ab": 3,
+      "h": 1,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 571882,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "693459": [
@@ -826545,6 +827229,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "640459": [
@@ -833746,6 +834449,25 @@
       "opp_pitcher_id": 656492,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "687529": [
@@ -839535,6 +840257,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 2,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 8,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "680716": [
@@ -843707,6 +844448,25 @@
       "opp_pitcher_id": 663542,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 4,
+      "ab": 4,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 8,
+      "opp_pitcher_id": 675512,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "678225": [
@@ -846682,6 +847442,25 @@
       "opp_pitcher_id": 592791,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "KC",
+      "opp": "ARI",
+      "pa": 3,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 571882,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "805805": [
@@ -846834,6 +847613,25 @@
       "tb": 0,
       "lineup_slot": 9,
       "opp_pitcher_id": 663542,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "MIN",
+      "opp": "DET",
+      "pa": 4,
+      "ab": 3,
+      "h": 1,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 1,
+      "tb": 2,
+      "lineup_slot": 9,
+      "opp_pitcher_id": 675512,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -847108,6 +847906,25 @@
       "opp_pitcher_id": 668909,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "DET",
+      "opp": "MIN",
+      "pa": 4,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 1,
+      "tb": 1,
+      "lineup_slot": 9,
+      "opp_pitcher_id": 657746,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "805346": [

@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-vs-team-watch",
-  "generated": "2026-09-07T21:06:02Z",
+  "generated": "2026-09-07T23:08:45Z",
   "seasonStart": "2026-04-05",
   "minStarts": 2,
   "minEra": 6.0,
@@ -19,8 +19,8 @@
       "venue": "home",
       "matchup": "MIN @ DET",
       "odds": 106,
-      "eraVsOpp": 7.84,
-      "startsVsOpp": 2,
+      "eraVsOpp": 7.31,
+      "startsVsOpp": 3,
       "result": "pending"
     }
   ],
@@ -87,22 +87,6 @@
         "u": 2.56,
         "n": 2,
         "roi": 1.28
-      }
-    },
-    {
-      "pitcher": "Troy Melton",
-      "opp": "MIN",
-      "arm_team": "DET",
-      "eraVsOpp": 7.84,
-      "ipVsOpp": 10.3,
-      "erVsOpp": 9,
-      "startsVsOpp": 2,
-      "fadeRecord": {
-        "w": 1,
-        "l": 1,
-        "u": 0.0,
-        "n": 2,
-        "roi": 0.0
       }
     },
     {
@@ -247,6 +231,22 @@
         "u": 2.0,
         "n": 2,
         "roi": 0.8547
+      }
+    },
+    {
+      "pitcher": "Troy Melton",
+      "opp": "MIN",
+      "arm_team": "DET",
+      "eraVsOpp": 7.31,
+      "ipVsOpp": 16.0,
+      "erVsOpp": 13,
+      "startsVsOpp": 3,
+      "fadeRecord": {
+        "w": 1,
+        "l": 2,
+        "u": -1.0,
+        "n": 3,
+        "roi": -0.3226
       }
     },
     {

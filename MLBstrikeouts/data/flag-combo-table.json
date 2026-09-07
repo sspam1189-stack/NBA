@@ -1,14 +1,14 @@
 {
  "sport": "MLB",
  "type": "flag-combo-table",
- "generated": "2026-09-07T21:06:13Z",
+ "generated": "2026-09-07T23:08:55Z",
  "span": {
   "from": "2026-03-26",
   "to": "2026-09-07"
  },
  "games": {
-  "gradeable": 2098,
-  "flagged": 538,
+  "gradeable": 2100,
+  "flagged": 539,
   "pushes_dropped": 56
  },
  "card_requires": "swingman",
@@ -59,17 +59,17 @@
  "note": "Flags replayed as-of each game date from the pitcher game logs (not from payload snapshots, which only start 2026-08-17 and produced the rust-over mirage). Graded at the payload's own over_ml/under_ml, 1u risk. A combo row counts a game once, under its exact flag set; a flag row counts a game under every flag it carries, so flag rows overlap and combo rows do not.",
  "baselines": {
   "under": {
-   "w": 1058,
-   "l": 1040,
-   "n": 2098,
-   "units": -84.81,
+   "w": 1059,
+   "l": 1041,
+   "n": 2100,
+   "units": -84.98,
    "roi": -4.0
   },
   "over": {
-   "w": 1040,
-   "l": 1058,
-   "n": 2098,
-   "units": -114.73,
+   "w": 1041,
+   "l": 1059,
+   "n": 2100,
+   "units": -114.88,
    "roi": -5.5
   }
  },
@@ -264,17 +264,17 @@
    "shadow_from": "2026-09-02",
    "under": {
     "w": 43,
-    "l": 39,
-    "n": 82,
-    "units": 0.44,
-    "roi": 0.5
+    "l": 40,
+    "n": 83,
+    "units": -0.56,
+    "roi": -0.7
    },
    "over": {
-    "w": 39,
+    "w": 40,
     "l": 43,
-    "n": 82,
-    "units": -7.58,
-    "roi": -9.2
+    "n": 83,
+    "units": -6.74,
+    "roi": -8.1
    }
   },
   {
@@ -457,17 +457,17 @@
    "flag": "layoff",
    "under": {
     "w": 120,
-    "l": 101,
-    "n": 221,
-    "units": 8.33,
-    "roi": 3.8
+    "l": 102,
+    "n": 222,
+    "units": 7.33,
+    "roi": 3.3
    },
    "over": {
-    "w": 101,
+    "w": 102,
     "l": 120,
-    "n": 221,
-    "units": -28.98,
-    "roi": -13.1
+    "n": 222,
+    "units": -28.14,
+    "roi": -12.7
    }
   },
   {

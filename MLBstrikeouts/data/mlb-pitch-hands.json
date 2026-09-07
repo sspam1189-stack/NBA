@@ -2,7 +2,7 @@
   "sport": "MLB",
   "type": "pitch-hands-today",
   "date": "2026-09-07",
-  "generated": "2026-09-07T21:02:35Z",
+  "generated": "2026-09-07T23:03:14Z",
   "hands": {
     "jesus luzardo": "L",
     "grant holmes": "R",
@@ -22,6 +22,7 @@
     "jake irvin": "R",
     "logan webb": "R",
     "michael mcgreevy": "R",
+    "emmet sheehan": "R",
     "chase burns": "R",
     "jacob lopez": "L",
     "dylan cease": "R"
@@ -45,6 +46,7 @@
     "jake irvin": "Jake Irvin",
     "logan webb": "Logan Webb",
     "michael mcgreevy": "Michael McGreevy",
+    "emmet sheehan": "Emmet Sheehan",
     "chase burns": "Chase Burns",
     "jacob lopez": "Jacob Lopez",
     "dylan cease": "Dylan Cease"
@@ -120,6 +122,10 @@
     },
     "STL": {
       "name": "Michael McGreevy",
+      "hand": "R"
+    },
+    "LAD": {
+      "name": "Emmet Sheehan",
       "hand": "R"
     },
     "CIN": {

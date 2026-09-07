@@ -231,17 +231,6 @@
     "_event_id": "36038572"
   },
   {
-    "player": "Chase Burns",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": -120,
-    "under_price": -106,
-    "event_home": "LAD",
-    "event_away": "CIN",
-    "source": "fanduel",
-    "_event_id": "36038562"
-  },
-  {
     "player": "Michael McGreevy 16.5",
     "market": "outs",
     "line": 16.5,
@@ -286,50 +275,6 @@
     "_event_id": "36038565"
   },
   {
-    "player": "Jacob Lopez 15.5",
-    "market": "outs",
-    "line": 15.5,
-    "over_price": -130,
-    "under_price": -102,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Jacob Lopez",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": 114,
-    "under_price": -146,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Dylan Cease",
-    "market": "strikeouts",
-    "line": 7.5,
-    "over_price": 102,
-    "under_price": -130,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Dylan Cease 17.5",
-    "market": "outs",
-    "line": 17.5,
-    "over_price": -205,
-    "under_price": 148,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
     "player": "Jake Irvin",
     "market": "strikeouts",
     "line": 4.5,
@@ -366,10 +311,66 @@
     "player": "Emmet Sheehan",
     "market": "strikeouts",
     "line": 6.5,
-    "over_price": 107,
+    "over_price": 106,
     "under_price": -136,
     "event_home": "LAD",
     "event_away": "CIN",
-    "source": "rotowire:draftkings"
+    "source": "fanduel",
+    "_event_id": "36038562"
+  },
+  {
+    "player": "Chase Burns",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -142,
+    "under_price": 112,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "fanduel",
+    "_event_id": "36038562"
+  },
+  {
+    "player": "Jacob Lopez 15.5",
+    "market": "outs",
+    "line": 15.5,
+    "over_price": -130,
+    "under_price": -102,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Jacob Lopez",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 112,
+    "under_price": -142,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Dylan Cease",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": 102,
+    "under_price": -130,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Dylan Cease 17.5",
+    "market": "outs",
+    "line": 17.5,
+    "over_price": -205,
+    "under_price": 148,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
   }
 ]

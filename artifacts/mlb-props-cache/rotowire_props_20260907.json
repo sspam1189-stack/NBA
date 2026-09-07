@@ -130,26 +130,6 @@
     "source": "rotowire:draftkings"
   },
   {
-    "player": "Dylan Cease",
-    "market": "strikeouts",
-    "line": 7.5,
-    "over_price": -109,
-    "under_price": -117,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "rotowire:draftkings"
-  },
-  {
-    "player": "Emmet Sheehan",
-    "market": "strikeouts",
-    "line": 6.5,
-    "over_price": 107,
-    "under_price": -136,
-    "event_home": "LAD",
-    "event_away": "CIN",
-    "source": "rotowire:draftkings"
-  },
-  {
     "player": "Logan Webb",
     "market": "strikeouts",
     "line": 5.5,
@@ -160,16 +140,6 @@
     "source": "rotowire:draftkings"
   },
   {
-    "player": "Chase Burns",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": -130,
-    "under_price": 102,
-    "event_home": "LAD",
-    "event_away": "CIN",
-    "source": "rotowire:draftkings"
-  },
-  {
     "player": "Jake Irvin",
     "market": "strikeouts",
     "line": 4.5,
@@ -177,16 +147,6 @@
     "under_price": -135,
     "event_home": "SD",
     "event_away": "WAS",
-    "source": "rotowire:draftkings"
-  },
-  {
-    "player": "Jacob Lopez",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": 105,
-    "under_price": -132,
-    "event_home": "OAK",
-    "event_away": "TOR",
     "source": "rotowire:draftkings"
   },
   {
@@ -207,6 +167,46 @@
     "under_price": -141,
     "event_home": "SF",
     "event_away": "STL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Dylan Cease",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": -105,
+    "under_price": -122,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Emmet Sheehan",
+    "market": "strikeouts",
+    "line": 6.5,
+    "over_price": 110,
+    "under_price": -140,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Chase Burns",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -136,
+    "under_price": 107,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jacob Lopez",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 104,
+    "under_price": -132,
+    "event_home": "OAK",
+    "event_away": "TOR",
     "source": "rotowire:draftkings"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "all-ml",
-  "generated": "2026-09-07T21:02:39Z",
+  "generated": "2026-09-07T23:03:19Z",
   "seasonStart": "2026-03-25",
   "today": [
     {
@@ -95,14 +95,14 @@
       "total_line": 9.5,
       "over_ml": -102,
       "under_ml": -120,
-      "home_score": 1,
+      "home_score": 4,
       "away_score": 5,
       "home_pitcher": "Noah Cameron",
       "away_pitcher": "Derek Law",
       "home_hand": "L",
       "away_hand": "R",
-      "home_win": null,
-      "final": false
+      "home_win": false,
+      "final": true
     },
     {
       "date": "2026-09-07",
@@ -141,8 +141,8 @@
       "away_pitcher": "Joe Ryan",
       "home_hand": "R",
       "away_hand": "R",
-      "home_win": null,
-      "final": false
+      "home_win": true,
+      "final": true
     },
     {
       "date": "2026-09-07",
@@ -155,8 +155,8 @@
       "total_line": 8,
       "over_ml": -110,
       "under_ml": -110,
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 3,
+      "away_score": 2,
       "home_pitcher": "Nick Pivetta",
       "away_pitcher": "Jake Irvin",
       "home_hand": "R",
@@ -173,8 +173,8 @@
       "home_ml": -134,
       "away_ml": 114,
       "total_line": 7.5,
-      "over_ml": -122,
-      "under_ml": 100,
+      "over_ml": -124,
+      "under_ml": 102,
       "home_score": 0,
       "away_score": 0,
       "home_pitcher": "Logan Webb",
@@ -195,11 +195,11 @@
       "total_line": 8.5,
       "over_ml": -105,
       "under_ml": -115,
-      "home_score": null,
-      "away_score": null,
-      "home_pitcher": null,
+      "home_score": 0,
+      "away_score": 0,
+      "home_pitcher": "Emmet Sheehan",
       "away_pitcher": "Chase Burns",
-      "home_hand": null,
+      "home_hand": "R",
       "away_hand": "R",
       "home_win": null,
       "final": false
@@ -41174,6 +41174,25 @@
     {
       "date": "2026-09-07",
       "commence": "2026-09-07T18:10:00Z",
+      "gamePk": 824062,
+      "home": "KC",
+      "away": "ARI",
+      "home_ml": -112,
+      "away_ml": -104,
+      "total_line": 9.5,
+      "over_ml": -102,
+      "under_ml": -120,
+      "home_score": 4,
+      "away_score": 5,
+      "home_pitcher": "Noah Cameron",
+      "away_pitcher": "Derek Law",
+      "home_hand": "L",
+      "away_hand": "R",
+      "home_win": false
+    },
+    {
+      "date": "2026-09-07",
+      "commence": "2026-09-07T18:10:00Z",
       "gamePk": 823742,
       "home": "MIL",
       "away": "CHC",
@@ -41188,6 +41207,25 @@
       "away_pitcher": "Matthew Boyd",
       "home_hand": "L",
       "away_hand": "L",
+      "home_win": true
+    },
+    {
+      "date": "2026-09-07",
+      "commence": "2026-09-07T19:10:00Z",
+      "gamePk": 824229,
+      "home": "DET",
+      "away": "MIN",
+      "home_ml": -124,
+      "away_ml": 106,
+      "total_line": 7.5,
+      "over_ml": -118,
+      "under_ml": -104,
+      "home_score": 5,
+      "away_score": 4,
+      "home_pitcher": "Troy Melton",
+      "away_pitcher": "Joe Ryan",
+      "home_hand": "R",
+      "away_hand": "R",
       "home_win": true
     }
   ]

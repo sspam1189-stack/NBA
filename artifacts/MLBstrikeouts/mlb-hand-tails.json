@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "hand-tails",
-  "generated": "2026-09-07T21:04:39Z",
+  "generated": "2026-09-07T23:06:33Z",
   "handMin": 6,
   "roster": {
     "Andrew Painter": {
@@ -114,8 +114,8 @@
     {
       "name": "Noah Cameron",
       "hand": "L",
-      "games": 19,
-      "units": 5.04,
+      "games": 20,
+      "units": 6.04,
       "since": "2026-06-18"
     },
     {

@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-vs-team-watch",
-  "generated": "2026-09-07T18:36:59Z",
+  "generated": "2026-09-07T21:06:02Z",
   "seasonStart": "2026-04-05",
   "minStarts": 2,
   "minEra": 6.0,
@@ -18,7 +18,7 @@
       "selection": "MIN",
       "venue": "home",
       "matchup": "MIN @ DET",
-      "odds": 102,
+      "odds": 106,
       "eraVsOpp": 7.84,
       "startsVsOpp": 2,
       "result": "pending"

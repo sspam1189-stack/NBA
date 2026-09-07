@@ -1,16 +1,16 @@
 {
  "sport": "MLB",
  "type": "allml-systems-table",
- "generated": "2026-09-07T18:37:14Z",
+ "generated": "2026-09-07T21:06:19Z",
  "span": {
   "from": "2026-03-25",
-  "to": "2026-09-06"
+  "to": "2026-09-07"
  },
- "games": 2151,
+ "games": 2156,
  "note": "Systems derived from mlb-all-ml.json alone -- moneylines, totals, probables, scores -- with no input from the mismatch model. Replayed as-of each game date: a game's own result is never in the features that select it. Each system carries the blind baseline it is measured against: backing every side at market price for moneylines, blind over or blind under for totals.",
  "baselines": {
   "side": -3.2,
-  "over": -5.5,
+  "over": -5.6,
   "under": -4.0,
   "parlay": 0.0
  },
@@ -95,7 +95,7 @@
      "roi": 103.3
     }
    ],
-   "per_day": 1.02
+   "per_day": 1.01
   },
   {
    "baseline_key": "side",
@@ -109,15 +109,15 @@
    "status": "card",
    "ladder_fails": true,
    "record": {
-    "w": 33,
+    "w": 34,
     "l": 17,
-    "n": 50,
-    "units": 12.52,
-    "roi": 25.0
+    "n": 51,
+    "units": 13.26,
+    "roi": 26.0
    },
    "halves": [
     28.5,
-    20.2
+    22.6
    ],
    "monthly": [
     {
@@ -159,6 +159,14 @@
      "n": 9,
      "units": 1.23,
      "roi": 13.6
+    },
+    {
+     "month": "2026-09",
+     "w": 1,
+     "l": 0,
+     "n": 1,
+     "units": 0.74,
+     "roi": 73.5
     }
    ],
    "per_day": 0.31
@@ -391,11 +399,11 @@
      "roi": 37.1
     }
    ],
-   "per_day": 1.53
+   "per_day": 1.52
   },
   {
    "baseline_key": "over",
-   "baseline": -5.5,
+   "baseline": -5.6,
    "key": "starter-over-run",
    "name": "Starter over run",
    "market": "totals",
@@ -406,14 +414,14 @@
    "ladder_fails": false,
    "record": {
     "w": 123,
-    "l": 91,
-    "n": 214,
-    "units": 21.05,
-    "roi": 9.8
+    "l": 92,
+    "n": 215,
+    "units": 20.05,
+    "roi": 9.3
    },
    "halves": [
     11.3,
-    9.0
+    8.2
    ],
    "monthly": [
     {
@@ -459,10 +467,10 @@
     {
      "month": "2026-09",
      "w": 3,
-     "l": 4,
-     "n": 7,
-     "units": -1.39,
-     "roi": -19.9
+     "l": 5,
+     "n": 8,
+     "units": -2.39,
+     "roi": -29.9
     }
    ],
    "per_day": 1.31
@@ -539,11 +547,11 @@
      "roi": -100.0
     }
    ],
-   "per_day": 0.28
+   "per_day": 0.27
   },
   {
    "baseline_key": "over",
-   "baseline": -5.5,
+   "baseline": -5.6,
    "key": "low-line-over",
    "name": "Low line over",
    "market": "totals",
@@ -621,7 +629,7 @@
      "roi": 3.4
     }
    ],
-   "per_day": 0.82
+   "per_day": 0.81
   },
   {
    "baseline_key": "under",
@@ -636,14 +644,14 @@
    "ladder_fails": false,
    "record": {
     "w": 242,
-    "l": 180,
-    "n": 422,
-    "units": 18.15,
-    "roi": 4.3
+    "l": 181,
+    "n": 423,
+    "units": 17.15,
+    "roi": 4.1
    },
    "halves": [
     3.6,
-    5.0
+    4.5
    ],
    "monthly": [
     {
@@ -697,13 +705,13 @@
     {
      "month": "2026-09",
      "w": 8,
-     "l": 9,
-     "n": 17,
-     "units": -2.43,
-     "roi": -14.3
+     "l": 10,
+     "n": 18,
+     "units": -3.43,
+     "roi": -19.0
     }
    ],
-   "per_day": 2.59
+   "per_day": 2.58
   },
   {
    "baseline_key": "side",
@@ -718,14 +726,14 @@
    "ladder_fails": false,
    "record": {
     "w": 92,
-    "l": 95,
-    "n": 187,
-    "units": 19.56,
-    "roi": 10.5
+    "l": 96,
+    "n": 188,
+    "units": 18.56,
+    "roi": 9.9
    },
    "halves": [
     18.1,
-    5.8
+    4.9
    ],
    "monthly": [
     {
@@ -771,17 +779,17 @@
     {
      "month": "2026-09",
      "w": 1,
-     "l": 5,
-     "n": 6,
-     "units": -3.36,
-     "roi": -56.0
+     "l": 6,
+     "n": 7,
+     "units": -4.36,
+     "roi": -62.3
     }
    ],
    "per_day": 1.15
   },
   {
    "baseline_key": "over",
-   "baseline": -5.5,
+   "baseline": -5.6,
    "key": "monday-over",
    "name": "Monday over",
    "market": "totals",
@@ -791,15 +799,15 @@
    "status": "shadow",
    "ladder_fails": false,
    "record": {
-    "w": 129,
-    "l": 104,
-    "n": 233,
-    "units": 11.84,
-    "roi": 5.1
+    "w": 131,
+    "l": 107,
+    "n": 238,
+    "units": 10.74,
+    "roi": 4.5
    },
    "halves": [
     2.1,
-    8.5
+    7.2
    ],
    "monthly": [
     {
@@ -849,9 +857,17 @@
      "n": 50,
      "units": 7.19,
      "roi": 14.4
+    },
+    {
+     "month": "2026-09",
+     "w": 2,
+     "l": 3,
+     "n": 5,
+     "units": -1.1,
+     "roi": -22.1
     }
    ],
-   "per_day": 1.43
+   "per_day": 1.45
   },
   {
    "baseline_key": "under",
@@ -925,130 +941,10 @@
      "roi": -5.5
     }
    ],
-   "per_day": 1.05
+   "per_day": 1.04
   }
  ],
  "today": [
-  {
-   "rule": "hot-arm-dog-ml",
-   "market": "h2h",
-   "pick": "ATL",
-   "price": 154,
-   "side": null,
-   "why": "Grant Holmes \u2014 team +61% over his last 8 starts, priced +154",
-   "gamePk": 823415,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:05:00Z",
-   "matchup": "ATL @ PHI",
-   "away": "ATL",
-   "home": "PHI",
-   "total": 8
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -110,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 823415,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:05:00Z",
-   "matchup": "ATL @ PHI",
-   "away": "ATL",
-   "home": "PHI",
-   "total": 8
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -114,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 823820,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:10:00Z",
-   "matchup": "NYM @ MIA",
-   "away": "NYM",
-   "home": "MIA",
-   "total": 8
-  },
-  {
-   "rule": "home-slide-ml",
-   "market": "h2h",
-   "pick": "BAL",
-   "price": -136,
-   "side": null,
-   "why": "home on L6, new opponent (last faced BOS)",
-   "gamePk": 824793,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:35:00Z",
-   "matchup": "CLE @ BAL",
-   "away": "CLE",
-   "home": "BAL",
-   "total": 7.5
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -104,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 824715,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:35:00Z",
-   "matchup": "LAA @ BOS",
-   "away": "LAA",
-   "home": "BOS",
-   "total": 8.5
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": 102,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 824793,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:35:00Z",
-   "matchup": "CLE @ BAL",
-   "away": "CLE",
-   "home": "BAL",
-   "total": 7.5
-  },
-  {
-   "rule": "starter-over-run",
-   "market": "totals",
-   "pick": "over",
-   "price": -104,
-   "side": "O",
-   "why": "over in Grayson Rodriguez 75%, Brayan Bello 75% of last 8, total 8.5",
-   "gamePk": 824715,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:35:00Z",
-   "matchup": "LAA @ BOS",
-   "away": "LAA",
-   "home": "BOS",
-   "total": 8.5
-  },
-  {
-   "rule": "under-juice",
-   "market": "totals",
-   "pick": "under",
-   "price": -124,
-   "side": "U",
-   "why": "book laying -124 on the under",
-   "gamePk": 824793,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T17:35:00Z",
-   "matchup": "CLE @ BAL",
-   "away": "CLE",
-   "home": "BAL",
-   "total": 7.5
-  },
   {
    "rule": "monday-over",
    "market": "totals",
@@ -1063,21 +959,6 @@
    "away": "ARI",
    "home": "KC",
    "total": 9.5
-  },
-  {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -108,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 823742,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T18:10:00Z",
-   "matchup": "CHC @ MIL",
-   "away": "CHC",
-   "home": "MIL",
-   "total": 8.5
   },
   {
    "rule": "pickem-under",
@@ -1173,7 +1054,7 @@
    "rule": "monday-over",
    "market": "totals",
    "pick": "over",
-   "price": -106,
+   "price": -105,
    "side": "O",
    "why": "Monday: travel day, light schedule, series openers",
    "gamePk": 823902,

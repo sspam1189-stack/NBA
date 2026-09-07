@@ -2,19 +2,22 @@
   "sport": "MLB",
   "type": "pitch-hands-today",
   "date": "2026-09-07",
-  "generated": "2026-09-07T13:04:39Z",
+  "generated": "2026-09-07T15:44:59Z",
   "hands": {
     "jesus luzardo": "L",
     "grant holmes": "R",
     "eury perez": "R",
     "jonah tong": "R",
+    "brayan bello": "R",
     "grayson rodriguez": "R",
     "trevor rogers": "L",
     "joey cantillo": "L",
     "noah cameron": "L",
+    "derek law": "R",
     "robert gasser": "L",
     "matthew boyd": "L",
     "troy melton": "R",
+    "joe ryan": "R",
     "nick pivetta": "R",
     "jake irvin": "R",
     "logan webb": "R",
@@ -28,13 +31,16 @@
     "grant holmes": "Grant Holmes",
     "eury perez": "Eury P\u00e9rez",
     "jonah tong": "Jonah Tong",
+    "brayan bello": "Brayan Bello",
     "grayson rodriguez": "Grayson Rodriguez",
     "trevor rogers": "Trevor Rogers",
     "joey cantillo": "Joey Cantillo",
     "noah cameron": "Noah Cameron",
+    "derek law": "Derek Law",
     "robert gasser": "Robert Gasser",
     "matthew boyd": "Matthew Boyd",
     "troy melton": "Troy Melton",
+    "joe ryan": "Joe Ryan",
     "nick pivetta": "Nick Pivetta",
     "jake irvin": "Jake Irvin",
     "logan webb": "Logan Webb",
@@ -60,6 +66,10 @@
       "name": "Jonah Tong",
       "hand": "R"
     },
+    "BOS": {
+      "name": "Brayan Bello",
+      "hand": "R"
+    },
     "LAA": {
       "name": "Grayson Rodriguez",
       "hand": "R"
@@ -76,6 +86,10 @@
       "name": "Noah Cameron",
       "hand": "L"
     },
+    "ARI": {
+      "name": "Derek Law",
+      "hand": "R"
+    },
     "MIL": {
       "name": "Robert Gasser",
       "hand": "L"
@@ -86,6 +100,10 @@
     },
     "DET": {
       "name": "Troy Melton",
+      "hand": "R"
+    },
+    "MIN": {
+      "name": "Joe Ryan",
       "hand": "R"
     },
     "SD": {

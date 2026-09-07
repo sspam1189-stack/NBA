@@ -1,84 +1,11 @@
 {
   "sport": "MLB",
   "type": "fade-watch",
-  "generated": "2026-09-07T13:10:01Z",
+  "generated": "2026-09-07T15:48:31Z",
   "minGames": 3,
   "minUnits": 2.5,
   "note": "Shadow review list -- arms NOT on the active fade list whose home or away fade clears the bar (>= 3 games, >= +2.5u). In-sample season replay; watch, don't bet. Promote by editing scripts/fade_list.py.",
-  "today": [
-    {
-      "date": "2026-09-06",
-      "commence": "2026-09-06T17:40:00Z",
-      "betType": "fade_watch",
-      "watch": true,
-      "pitcher": "Clay Holmes",
-      "arm_team": "CHC",
-      "fadeTeam": "CHC",
-      "selection": "MIA",
-      "home": "MIA",
-      "away": "CHC",
-      "venue": "away",
-      "odds": 124,
-      "suggest": "away",
-      "suggestUnits": 4.64,
-      "games": 6,
-      "result": "pending"
-    },
-    {
-      "date": "2026-09-06",
-      "commence": "2026-09-06T19:10:00Z",
-      "betType": "fade_watch",
-      "watch": true,
-      "pitcher": "Tanner Gordon",
-      "arm_team": "COL",
-      "fadeTeam": "COL",
-      "selection": "STL",
-      "home": "COL",
-      "away": "STL",
-      "venue": "home",
-      "odds": -138,
-      "suggest": "home",
-      "suggestUnits": 3.82,
-      "games": 6,
-      "result": "pending"
-    },
-    {
-      "date": "2026-09-06",
-      "commence": "2026-09-07T02:10:00Z",
-      "betType": "fade_watch",
-      "watch": true,
-      "pitcher": "Justin Wrobleski",
-      "arm_team": "LAD",
-      "fadeTeam": "LAD",
-      "selection": "WSH",
-      "home": "LAD",
-      "away": "WSH",
-      "venue": "home",
-      "odds": 172,
-      "suggest": "home",
-      "suggestUnits": 2.58,
-      "games": 8,
-      "result": "pending"
-    },
-    {
-      "date": "2026-09-06",
-      "commence": "2026-09-07T02:10:00Z",
-      "betType": "fade_watch",
-      "watch": true,
-      "pitcher": "Andrew Alvarez",
-      "arm_team": "WSH",
-      "fadeTeam": "WSH",
-      "selection": "LAD",
-      "home": "LAD",
-      "away": "WSH",
-      "venue": "away",
-      "odds": -205,
-      "suggest": "away",
-      "suggestUnits": 2.74,
-      "games": 7,
-      "result": "pending"
-    }
-  ],
+  "today": [],
   "candidates": [
     {
       "pitcher": "Blade Tidwell",
@@ -267,6 +194,33 @@
         "u": -1.84,
         "n": 3,
         "roi": -0.2997
+      }
+    },
+    {
+      "pitcher": "Andrew Alvarez",
+      "team": "WSH",
+      "suggest": "away",
+      "suggestUnits": 3.74,
+      "all": {
+        "w": 10,
+        "l": 4,
+        "u": 6.04,
+        "n": 14,
+        "roi": 0.3395
+      },
+      "home": {
+        "w": 4,
+        "l": 2,
+        "u": 2.3,
+        "n": 6,
+        "roi": 0.3605
+      },
+      "away": {
+        "w": 6,
+        "l": 2,
+        "u": 3.74,
+        "n": 8,
+        "roi": 0.3278
       }
     },
     {
@@ -702,33 +656,6 @@
       }
     },
     {
-      "pitcher": "Andrew Alvarez",
-      "team": "WSH",
-      "suggest": "away",
-      "suggestUnits": 2.74,
-      "all": {
-        "w": 9,
-        "l": 4,
-        "u": 5.04,
-        "n": 13,
-        "roi": 0.3202
-      },
-      "home": {
-        "w": 4,
-        "l": 2,
-        "u": 2.3,
-        "n": 6,
-        "roi": 0.3605
-      },
-      "away": {
-        "w": 5,
-        "l": 2,
-        "u": 2.74,
-        "n": 7,
-        "roi": 0.2927
-      }
-    },
-    {
       "pitcher": "Chris Sale",
       "team": "ATL",
       "suggest": "away",
@@ -753,33 +680,6 @@
         "u": 2.68,
         "n": 13,
         "roi": 0.1934
-      }
-    },
-    {
-      "pitcher": "Justin Wrobleski",
-      "team": "LAD",
-      "suggest": "home",
-      "suggestUnits": 2.58,
-      "all": {
-        "w": 8,
-        "l": 12,
-        "u": -1.06,
-        "n": 20,
-        "roi": -0.0516
-      },
-      "home": {
-        "w": 4,
-        "l": 4,
-        "u": 2.58,
-        "n": 8,
-        "roi": 0.3131
-      },
-      "away": {
-        "w": 4,
-        "l": 8,
-        "u": -3.64,
-        "n": 12,
-        "roi": -0.2955
       }
     }
   ]

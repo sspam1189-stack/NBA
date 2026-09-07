@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-vs-team-watch",
-  "generated": "2026-09-07T13:10:05Z",
+  "generated": "2026-09-07T15:48:34Z",
   "seasonStart": "2026-04-05",
   "minStarts": 2,
   "minEra": 6.0,
@@ -9,18 +9,18 @@
   "note": "Auto-screened WATCH tier for the pitcher-vs-team fade angle: >= 2 starts vs the team with 6.0 <= ERA < 8.0 vs them (ERA >= 8.0 auto-promotes to the FADE list, mlb-fade-vs-team.json), excluding arms already faded and matchups already curated. fadeRecord is the in-sample fade result (bet the opponent), shown for review -- not a screen filter. Watch, don't bet.",
   "today": [
     {
-      "date": "2026-09-06",
-      "commence": "2026-09-06T18:10:00Z",
+      "date": "2026-09-07",
+      "commence": "2026-09-07T19:10:00Z",
       "betType": "fade_vs_team_watch",
-      "pitcher": "Spencer Arrighetti",
-      "arm_team": "TOR",
-      "opp": "KC",
-      "selection": "KC",
-      "venue": "away",
-      "matchup": "TOR @ KC",
-      "odds": 104,
-      "eraVsOpp": 7.98,
-      "startsVsOpp": 3,
+      "pitcher": "Troy Melton",
+      "arm_team": "DET",
+      "opp": "MIN",
+      "selection": "MIN",
+      "venue": "home",
+      "matchup": "MIN @ DET",
+      "odds": 102,
+      "eraVsOpp": 7.84,
+      "startsVsOpp": 2,
       "result": "pending"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-ml",
-  "generated": "2026-09-07T00:31:29Z",
+  "generated": "2026-09-07T13:04:38Z",
   "fadeList": [
     "Painter",
     "Rocker",
@@ -87,7 +87,7 @@
     "wins": 523,
     "losses": 209,
     "voids": 0,
-    "skips": 51,
+    "skips": 52,
     "staked": 917.76,
     "units": 320.46,
     "roi": 0.3492,
@@ -105,7 +105,7 @@
         "wins": 12,
         "losses": 12,
         "voids": 0,
-        "skips": 47,
+        "skips": 48,
         "staked": 24.0,
         "units": 4.48,
         "roi": 0.1867
@@ -114,29 +114,52 @@
   },
   "today": [
     {
-      "date": "2026-09-06",
-      "commence": "2026-09-06T17:35:00Z",
-      "betType": "ml_dog",
+      "date": "2026-09-07",
+      "commence": "2026-09-07T17:35:00Z",
+      "betType": "ml",
       "shadow": false,
       "pitchers": [
-        "Walbert Ure\u00f1a",
-        "Paul Skenes"
+        "Trevor Rogers"
       ],
-      "fadeTeam": null,
+      "fadeTeam": "BAL",
       "market": "h2h",
-      "selection": null,
+      "selection": "CLE",
       "line": null,
-      "odds": null,
-      "stake": null,
-      "result": "SKIP",
+      "odds": 108,
+      "stake": 1.0,
+      "result": "pending",
       "profit": 0.0,
       "book": "fanduel",
       "source": "fanduel_api",
-      "reason": "mutual_skip",
-      "home": "PIT",
-      "away": "LAA",
-      "gamePk": 823336,
-      "fadeReason": "away/all"
+      "reason": null,
+      "home": "BAL",
+      "away": "CLE",
+      "gamePk": 824793,
+      "fadeReason": "home"
+    },
+    {
+      "date": "2026-09-07",
+      "commence": "2026-09-08T02:05:00Z",
+      "betType": "ml",
+      "shadow": false,
+      "pitchers": [
+        "Jacob Lopez"
+      ],
+      "fadeTeam": "OAK",
+      "market": "h2h",
+      "selection": "TOR",
+      "line": null,
+      "odds": -196,
+      "stake": 1.96,
+      "result": "pending",
+      "profit": 0.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": null,
+      "home": "OAK",
+      "away": "TOR",
+      "gamePk": 824958,
+      "fadeReason": "home"
     }
   ],
   "bets": [
@@ -19002,6 +19025,31 @@
       "away": "ATL",
       "gamePk": 823417,
       "fadeReason": "away"
+    },
+    {
+      "date": "2026-09-06",
+      "commence": "2026-09-06T17:35:00Z",
+      "betType": "ml_dog",
+      "shadow": false,
+      "pitchers": [
+        "Paul Skenes",
+        "Walbert Ure\u00f1a"
+      ],
+      "fadeTeam": null,
+      "market": "h2h",
+      "selection": null,
+      "line": null,
+      "odds": null,
+      "stake": null,
+      "result": "SKIP",
+      "profit": 0.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": "mutual_skip",
+      "home": "PIT",
+      "away": "LAA",
+      "gamePk": 823336,
+      "fadeReason": "all/away"
     }
   ]
 }

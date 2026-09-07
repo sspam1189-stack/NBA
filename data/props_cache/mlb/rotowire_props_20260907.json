@@ -1,0 +1,192 @@
+[
+  {
+    "player": "Dylan Cease",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": 102,
+    "under_price": -131,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jesus Luzardo",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": 119,
+    "under_price": -152,
+    "event_home": "PHI",
+    "event_away": "ATL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Joey Cantillo",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": -155,
+    "under_price": 121,
+    "event_home": "BAL",
+    "event_away": "CLE",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Matthew Boyd",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 111,
+    "under_price": -141,
+    "event_home": "MIL",
+    "event_away": "CHC",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Eury Perez",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": -133,
+    "under_price": 105,
+    "event_home": "MIA",
+    "event_away": "NYM",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Trevor Rogers",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 129,
+    "under_price": -165,
+    "event_home": "BAL",
+    "event_away": "CLE",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Logan Webb",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 111,
+    "under_price": -142,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Brayan Bello",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -102,
+    "under_price": -125,
+    "event_home": "BOS",
+    "event_away": "LAA",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Chase Burns",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 102,
+    "under_price": -129,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Noah Cameron",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -171,
+    "under_price": 134,
+    "event_home": "KC",
+    "event_away": "ARI",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Robert Gasser",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -101,
+    "under_price": -125,
+    "event_home": "MIL",
+    "event_away": "CHC",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jake Irvin",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 122,
+    "under_price": -156,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jacob Lopez",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 112,
+    "under_price": -142,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Troy Melton",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 126,
+    "under_price": -161,
+    "event_home": "DET",
+    "event_away": "MIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Nick Pivetta",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 101,
+    "under_price": -129,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Grayson Rodriguez",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -117,
+    "under_price": -109,
+    "event_home": "BOS",
+    "event_away": "LAA",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jonah Tong",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -148,
+    "under_price": 119,
+    "event_home": "MIA",
+    "event_away": "NYM",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Grant Holmes",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": 107,
+    "under_price": -137,
+    "event_home": "PHI",
+    "event_away": "ATL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Michael McGreevy",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": 103,
+    "under_price": -129,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "rotowire:draftkings"
+  }
+]

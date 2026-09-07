@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "hand-tails-watch",
-  "generated": "2026-09-07T00:34:52Z",
+  "generated": "2026-09-07T13:10:00Z",
   "handMin": 6,
   "minGames": 3,
   "minUnits": 2.5,
@@ -136,7 +136,7 @@
         "l": 2,
         "u": 17.58
       },
-      "era": 2.59
+      "era": 2.55
     },
     {
       "pitcher": "Foster Griffin",
@@ -244,7 +244,7 @@
         "l": 2,
         "u": 7.12
       },
-      "era": 3.13
+      "era": 3.41
     },
     {
       "pitcher": "Grant Holmes",
@@ -568,7 +568,7 @@
         "l": 3,
         "u": 4.56
       },
-      "era": 3.8
+      "era": 3.81
     },
     {
       "pitcher": "Jos\u00e9 Soriano",
@@ -856,7 +856,7 @@
         "l": 5,
         "u": -3.36
       },
-      "era": 2.09
+      "era": 2.83
     },
     {
       "pitcher": "Trevor Rogers",
@@ -964,7 +964,7 @@
         "l": 7,
         "u": -3.62
       },
-      "era": 3.11
+      "era": 3.0
     }
   ]
 }

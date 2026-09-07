@@ -1,192 +1,120 @@
 {
   "sport": "MLB",
   "type": "pitch-hands-today",
-  "date": "2026-09-06",
-  "generated": "2026-09-07T00:31:30Z",
+  "date": "2026-09-07",
+  "generated": "2026-09-07T13:04:39Z",
   "hands": {
-    "brady singer": "R",
-    "kyle harrison": "L",
-    "aaron nola": "R",
-    "tyler mahle": "R",
-    "kyle bradish": "R",
-    "payton tolle": "L",
-    "paul skenes": "R",
-    "walbert urena": "R",
-    "gavin williams": "R",
-    "jackson jobe": "R",
-    "christian scott": "R",
-    "cesar perdomo": "L",
-    "tyler phillips": "R",
-    "clay holmes": "R",
-    "peter lambert": "R",
-    "eduardo rodriguez": "L",
-    "randy dobnak": "R",
-    "spencer arrighetti": "R",
-    "mackenzie gore": "L",
-    "ian seymour": "L",
-    "tanner gordon": "R",
-    "kyle leahy": "R",
-    "bryan woo": "R",
-    "gage jump": "L",
-    "michael king": "R",
-    "gerrit cole": "R",
-    "bryan hudson": "L",
-    "bailey ober": "R",
-    "justin wrobleski": "L",
-    "andrew alvarez": "L"
+    "jesus luzardo": "L",
+    "grant holmes": "R",
+    "eury perez": "R",
+    "jonah tong": "R",
+    "grayson rodriguez": "R",
+    "trevor rogers": "L",
+    "joey cantillo": "L",
+    "noah cameron": "L",
+    "robert gasser": "L",
+    "matthew boyd": "L",
+    "troy melton": "R",
+    "nick pivetta": "R",
+    "jake irvin": "R",
+    "logan webb": "R",
+    "michael mcgreevy": "R",
+    "chase burns": "R",
+    "jacob lopez": "L",
+    "dylan cease": "R"
   },
   "names": {
-    "brady singer": "Brady Singer",
-    "kyle harrison": "Kyle Harrison",
-    "aaron nola": "Aaron Nola",
-    "tyler mahle": "Tyler Mahle",
-    "kyle bradish": "Kyle Bradish",
-    "payton tolle": "Payton Tolle",
-    "paul skenes": "Paul Skenes",
-    "walbert urena": "Walbert Ure\u00f1a",
-    "gavin williams": "Gavin Williams",
-    "jackson jobe": "Jackson Jobe",
-    "christian scott": "Christian Scott",
-    "cesar perdomo": "Cesar Perdomo",
-    "tyler phillips": "Tyler Phillips",
-    "clay holmes": "Clay Holmes",
-    "peter lambert": "Peter Lambert",
-    "eduardo rodriguez": "Eduardo Rodriguez",
-    "randy dobnak": "Randy Dobnak",
-    "spencer arrighetti": "Spencer Arrighetti",
-    "mackenzie gore": "MacKenzie Gore",
-    "ian seymour": "Ian Seymour",
-    "tanner gordon": "Tanner Gordon",
-    "kyle leahy": "Kyle Leahy",
-    "bryan woo": "Bryan Woo",
-    "gage jump": "Gage Jump",
-    "michael king": "Michael King",
-    "gerrit cole": "Gerrit Cole",
-    "bryan hudson": "Bryan Hudson",
-    "bailey ober": "Bailey Ober",
-    "justin wrobleski": "Justin Wrobleski",
-    "andrew alvarez": "Andrew Alvarez"
+    "jesus luzardo": "Jes\u00fas Luzardo",
+    "grant holmes": "Grant Holmes",
+    "eury perez": "Eury P\u00e9rez",
+    "jonah tong": "Jonah Tong",
+    "grayson rodriguez": "Grayson Rodriguez",
+    "trevor rogers": "Trevor Rogers",
+    "joey cantillo": "Joey Cantillo",
+    "noah cameron": "Noah Cameron",
+    "robert gasser": "Robert Gasser",
+    "matthew boyd": "Matthew Boyd",
+    "troy melton": "Troy Melton",
+    "nick pivetta": "Nick Pivetta",
+    "jake irvin": "Jake Irvin",
+    "logan webb": "Logan Webb",
+    "michael mcgreevy": "Michael McGreevy",
+    "chase burns": "Chase Burns",
+    "jacob lopez": "Jacob Lopez",
+    "dylan cease": "Dylan Cease"
   },
   "starters": {
-    "CIN": {
-      "name": "Brady Singer",
-      "hand": "R"
-    },
-    "MIL": {
-      "name": "Kyle Harrison",
-      "hand": "L"
-    },
     "PHI": {
-      "name": "Aaron Nola",
-      "hand": "R"
+      "name": "Jes\u00fas Luzardo",
+      "hand": "L"
     },
     "ATL": {
-      "name": "Tyler Mahle",
+      "name": "Grant Holmes",
       "hand": "R"
     },
-    "BAL": {
-      "name": "Kyle Bradish",
-      "hand": "R"
-    },
-    "BOS": {
-      "name": "Payton Tolle",
-      "hand": "L"
-    },
-    "PIT": {
-      "name": "Paul Skenes",
-      "hand": "R"
-    },
-    "LAA": {
-      "name": "Walbert Ure\u00f1a",
-      "hand": "R"
-    },
-    "CLE": {
-      "name": "Gavin Williams",
-      "hand": "R"
-    },
-    "DET": {
-      "name": "Jackson Jobe",
+    "MIA": {
+      "name": "Eury P\u00e9rez",
       "hand": "R"
     },
     "NYM": {
-      "name": "Christian Scott",
+      "name": "Jonah Tong",
       "hand": "R"
     },
-    "SF": {
-      "name": "Cesar Perdomo",
+    "LAA": {
+      "name": "Grayson Rodriguez",
+      "hand": "R"
+    },
+    "BAL": {
+      "name": "Trevor Rogers",
       "hand": "L"
     },
-    "MIA": {
-      "name": "Tyler Phillips",
-      "hand": "R"
-    },
-    "CHC": {
-      "name": "Clay Holmes",
-      "hand": "R"
-    },
-    "HOU": {
-      "name": "Peter Lambert",
-      "hand": "R"
-    },
-    "ARI": {
-      "name": "Eduardo Rodriguez",
+    "CLE": {
+      "name": "Joey Cantillo",
       "hand": "L"
     },
     "KC": {
-      "name": "Randy Dobnak",
-      "hand": "R"
-    },
-    "TOR": {
-      "name": "Spencer Arrighetti",
-      "hand": "R"
-    },
-    "TEX": {
-      "name": "MacKenzie Gore",
+      "name": "Noah Cameron",
       "hand": "L"
     },
-    "TB": {
-      "name": "Ian Seymour",
+    "MIL": {
+      "name": "Robert Gasser",
       "hand": "L"
     },
-    "COL": {
-      "name": "Tanner Gordon",
+    "CHC": {
+      "name": "Matthew Boyd",
+      "hand": "L"
+    },
+    "DET": {
+      "name": "Troy Melton",
+      "hand": "R"
+    },
+    "SD": {
+      "name": "Nick Pivetta",
+      "hand": "R"
+    },
+    "WSH": {
+      "name": "Jake Irvin",
+      "hand": "R"
+    },
+    "SF": {
+      "name": "Logan Webb",
       "hand": "R"
     },
     "STL": {
-      "name": "Kyle Leahy",
+      "name": "Michael McGreevy",
       "hand": "R"
     },
-    "SEA": {
-      "name": "Bryan Woo",
+    "CIN": {
+      "name": "Chase Burns",
       "hand": "R"
     },
     "OAK": {
-      "name": "Gage Jump",
+      "name": "Jacob Lopez",
       "hand": "L"
     },
-    "SD": {
-      "name": "Michael King",
+    "TOR": {
+      "name": "Dylan Cease",
       "hand": "R"
-    },
-    "NYY": {
-      "name": "Gerrit Cole",
-      "hand": "R"
-    },
-    "CWS": {
-      "name": "Bryan Hudson",
-      "hand": "L"
-    },
-    "MIN": {
-      "name": "Bailey Ober",
-      "hand": "R"
-    },
-    "LAD": {
-      "name": "Justin Wrobleski",
-      "hand": "L"
-    },
-    "WSH": {
-      "name": "Andrew Alvarez",
-      "hand": "L"
     }
   }
 }

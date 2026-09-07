@@ -1,16 +1,5 @@
 [
   {
-    "player": "Chase Burns",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": -120,
-    "under_price": -108,
-    "event_home": "LAD",
-    "event_away": "CIN",
-    "source": "fanduel",
-    "_event_id": "36038562"
-  },
-  {
     "player": "Joe Ryan",
     "market": "strikeouts",
     "line": 3.5,
@@ -42,50 +31,6 @@
     "event_away": "ARI",
     "source": "fanduel",
     "_event_id": "36038564"
-  },
-  {
-    "player": "Michael McGreevy 16.5",
-    "market": "outs",
-    "line": 16.5,
-    "over_price": 108,
-    "under_price": -144,
-    "event_home": "SF",
-    "event_away": "STL",
-    "source": "fanduel",
-    "_event_id": "36038565"
-  },
-  {
-    "player": "Michael McGreevy",
-    "market": "strikeouts",
-    "line": 3.5,
-    "over_price": 114,
-    "under_price": -146,
-    "event_home": "SF",
-    "event_away": "STL",
-    "source": "fanduel",
-    "_event_id": "36038565"
-  },
-  {
-    "player": "Logan Webb",
-    "market": "strikeouts",
-    "line": 5.5,
-    "over_price": 124,
-    "under_price": -160,
-    "event_home": "SF",
-    "event_away": "STL",
-    "source": "fanduel",
-    "_event_id": "36038565"
-  },
-  {
-    "player": "Logan Webb 17.5",
-    "market": "outs",
-    "line": 17.5,
-    "over_price": -180,
-    "under_price": 134,
-    "event_home": "SF",
-    "event_away": "STL",
-    "source": "fanduel",
-    "_event_id": "36038565"
   },
   {
     "player": "Eury Perez 16.5",
@@ -174,83 +119,6 @@
     "event_away": "ATL",
     "source": "fanduel",
     "_event_id": "36038567"
-  },
-  {
-    "player": "Jacob Lopez 15.5",
-    "market": "outs",
-    "line": 15.5,
-    "over_price": -130,
-    "under_price": -102,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Jacob Lopez",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": 114,
-    "under_price": -146,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Dylan Cease",
-    "market": "strikeouts",
-    "line": 7.5,
-    "over_price": 100,
-    "under_price": -128,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Dylan Cease 17.5",
-    "market": "outs",
-    "line": 17.5,
-    "over_price": -205,
-    "under_price": 148,
-    "event_home": "OAK",
-    "event_away": "TOR",
-    "source": "fanduel",
-    "_event_id": "36038568"
-  },
-  {
-    "player": "Jake Irvin",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": 114,
-    "under_price": -146,
-    "event_home": "SD",
-    "event_away": "WAS",
-    "source": "fanduel",
-    "_event_id": "36038569"
-  },
-  {
-    "player": "Jake Irvin 16.5",
-    "market": "outs",
-    "line": 16.5,
-    "over_price": 118,
-    "under_price": -160,
-    "event_home": "SD",
-    "event_away": "WAS",
-    "source": "fanduel",
-    "_event_id": "36038569"
-  },
-  {
-    "player": "Nick Pivetta",
-    "market": "strikeouts",
-    "line": 4.5,
-    "over_price": -108,
-    "under_price": -118,
-    "event_home": "SD",
-    "event_away": "WAS",
-    "source": "fanduel",
-    "_event_id": "36038569"
   },
   {
     "player": "Grayson Rodriguez",
@@ -361,6 +229,138 @@
     "event_away": "CHC",
     "source": "fanduel",
     "_event_id": "36038572"
+  },
+  {
+    "player": "Chase Burns",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -118,
+    "under_price": -108,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "fanduel",
+    "_event_id": "36038562"
+  },
+  {
+    "player": "Michael McGreevy 16.5",
+    "market": "outs",
+    "line": 16.5,
+    "over_price": 108,
+    "under_price": -144,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "fanduel",
+    "_event_id": "36038565"
+  },
+  {
+    "player": "Michael McGreevy",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": 114,
+    "under_price": -146,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "fanduel",
+    "_event_id": "36038565"
+  },
+  {
+    "player": "Logan Webb",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 124,
+    "under_price": -158,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "fanduel",
+    "_event_id": "36038565"
+  },
+  {
+    "player": "Logan Webb 17.5",
+    "market": "outs",
+    "line": 17.5,
+    "over_price": -180,
+    "under_price": 134,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "fanduel",
+    "_event_id": "36038565"
+  },
+  {
+    "player": "Jacob Lopez 15.5",
+    "market": "outs",
+    "line": 15.5,
+    "over_price": -130,
+    "under_price": -102,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Jacob Lopez",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 114,
+    "under_price": -146,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Dylan Cease",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": 100,
+    "under_price": -128,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Dylan Cease 17.5",
+    "market": "outs",
+    "line": 17.5,
+    "over_price": -205,
+    "under_price": 148,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "fanduel",
+    "_event_id": "36038568"
+  },
+  {
+    "player": "Jake Irvin",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 114,
+    "under_price": -146,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "fanduel",
+    "_event_id": "36038569"
+  },
+  {
+    "player": "Jake Irvin 16.5",
+    "market": "outs",
+    "line": 16.5,
+    "over_price": 118,
+    "under_price": -160,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "fanduel",
+    "_event_id": "36038569"
+  },
+  {
+    "player": "Nick Pivetta",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -108,
+    "under_price": -118,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "fanduel",
+    "_event_id": "36038569"
   },
   {
     "player": "Emmet Sheehan",

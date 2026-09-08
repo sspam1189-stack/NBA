@@ -69556,6 +69556,90 @@
       "games": [],
       "summaryText": "RECORD (graded picks only)\n\n  SPREAD:   158-142-6  (52.7%)  +1.8u\n  TOTAL:    153-111-3  (58.0%)  +30.9u",
       "ranAt": "09/07/2026, 04:33:04 AM"
+    },
+    {
+      "weekKey": "2026_W1",
+      "season": 2026,
+      "week": 1,
+      "date": "20260908",
+      "dateDisplay": "2026 Week 1",
+      "burnIn": true,
+      "weightsUsed": {
+        "wPassOff": 6.982,
+        "wRushOff": 4.583,
+        "wPassDef": 2.958,
+        "wRushDef": 0.021,
+        "wPace": 0.324,
+        "wRZ": 0.076,
+        "hfa": 2.945,
+        "wCPOE": 0.8,
+        "wPressure": -0.5,
+        "wSuccessRate": 1.5,
+        "wQBEPA": 2.0,
+        "wTurnover": 0.8,
+        "wPassMatchup": 1.0,
+        "wRushMatchup": 0.5,
+        "wPaceXEPA": 0.3,
+        "wThirdDown": 1.0,
+        "constant": -1.378,
+        "sprHigh": 3.0,
+        "ouHigh": 4.0,
+        "sprEliteBump": 2.0,
+        "ouEliteBump": 2.0,
+        "probHigh": 0.57,
+        "probOUHigh": 0.64,
+        "probElite": 0.63,
+        "probOUElite": 0.64,
+        "coefficients": [
+          2.633003606612212,
+          5.364444716579579,
+          -0.40541844159799134,
+          -3.064917119199841,
+          0.07755459496917025,
+          -3.032802180056292,
+          0.0,
+          0.4203848602866193,
+          0.0,
+          1.0129367576491741,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.5102087219331306,
+          -2.21282338099015,
+          -0.06386223668882758,
+          -0.43537350728913504
+        ],
+        "intercept": 2.5565342931211954,
+        "alpha": 100.0,
+        "feature_columns": [
+          "passOffEPA_diff",
+          "rushOffEPA_diff",
+          "passDefEPA_diff",
+          "rushDefEPA_diff",
+          "pace_diff",
+          "rz_diff",
+          "home_flag",
+          "cpoe_diff",
+          "pressure_diff",
+          "success_rate_diff",
+          "qb_epa_diff",
+          "turnover_diff",
+          "injury_delta_a",
+          "injury_delta_b",
+          "pass_matchup",
+          "rush_matchup",
+          "pace_x_epa",
+          "third_down_diff"
+        ],
+        "n_train": 798,
+        "residual_var": 193.9385400652998,
+        "r_squared": 0.06163861807474502,
+        "source": "ridge_cv"
+      },
+      "games": [],
+      "summaryText": "RECORD (graded picks only)\n\n  SPREAD:   158-142-6  (52.7%)  +1.8u\n  TOTAL:    153-111-3  (58.0%)  +30.9u",
+      "ranAt": "09/08/2026, 03:58:43 AM"
     }
   ],
   "meta": {
@@ -75177,7 +75261,7 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Coach Mike LaFleur said Thursday that Love (ankle) is \"progressing,\" Howard Balzer of Cards Wire reports.",
+          "description": "Coach Mike LaFleur said he's \"optimistic\" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the Cardinals' official site reports.",
           "tier": "medium"
         },
         {
@@ -75249,9 +75333,9 @@
         {
           "player": "Michael Penix Jr.",
           "playerId": "",
-          "status": "questionable",
+          "status": "out",
           "position": "QB",
-          "description": "The Falcons plan for Penix (knee) to start \"eventually\" this season, but head coach Kevin Stefanski has yet to decide whether Penix or Tua Tagovailoa will direct the offense Week 1 in Pittsburgh, Cameron Wolfe of NFL Network reports.",
+          "description": "Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports.",
           "tier": "elite"
         },
         {
@@ -75449,7 +75533,7 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Coach Dave Canales said Wednesday he's \"very optimistic\" Brooks (soreness) will be available for Week 1 against the Bears, Sheena Quick of Fox Sports Radio 1340 reports.",
+          "description": "Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports.",
           "tier": "medium"
         },
         {
@@ -75559,19 +75643,19 @@
       ],
       "Chicago Bears": [
         {
-          "player": "D'Andre Swift",
+          "player": "Austin Booker",
           "playerId": "",
           "status": "questionable",
-          "position": "RB",
-          "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
-          "tier": "medium"
+          "position": "DE",
+          "description": "Booker (groin) took part in practice Monday, Kevin Fishbain of The Athletic reports.",
+          "tier": "high"
         },
         {
           "player": "Rome Odunze",
           "playerId": "",
           "status": "questionable",
           "position": "WR",
-          "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
+          "description": "Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports.",
           "tier": "high"
         },
         {
@@ -75579,7 +75663,15 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Fellow RB D'Andre Swift said Monangai (knee) \"looked good\" while running Wednesday, Adam Hoge of AllCHGO.com reports.",
+          "description": "Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
+          "tier": "medium"
+        },
+        {
+          "player": "D'Andre Swift",
+          "playerId": "",
+          "status": "questionable",
+          "position": "RB",
+          "description": "Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports.",
           "tier": "medium"
         },
         {
@@ -75604,14 +75696,6 @@
           "status": "questionable",
           "position": "WR",
           "description": "Coach Ben Johnson said Burden (groin) will participate in Tuesday's practice, Zack Pearson of BearReport reports.",
-          "tier": "high"
-        },
-        {
-          "player": "Dontae Manning",
-          "playerId": "",
-          "status": "out",
-          "position": "CB",
-          "description": "Manning (undisclosed) reverted to the Bears' injured reserve Monday, per the NFL's transaction log.",
           "tier": "high"
         },
         {
@@ -75681,11 +75765,11 @@
       ],
       "Cincinnati Bengals": [
         {
-          "player": "Shemar Stewart",
+          "player": "Tee Higgins",
           "playerId": "",
           "status": "questionable",
-          "position": "DE",
-          "description": "Stewart (knee) participated in Cincinnati's practice Wednesday, Yanni Tragellis of CBS reports.",
+          "position": "WR",
+          "description": "Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
           "tier": "high"
         },
         {
@@ -75693,15 +75777,15 @@
           "playerId": "",
           "status": "questionable",
           "position": "WR",
-          "description": "Chase (knee) was present but not suited up at Wednesday's practice, Gabi Sorrentino of Fox 19 Cincinnati reports.",
+          "description": "Chase (knee) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports.",
           "tier": "high"
         },
         {
-          "player": "Tee Higgins",
+          "player": "Shemar Stewart",
           "playerId": "",
           "status": "questionable",
-          "position": "WR",
-          "description": "Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports.",
+          "position": "DE",
+          "description": "Stewart (knee) participated in Cincinnati's practice Wednesday, Yanni Tragellis of CBS reports.",
           "tier": "high"
         },
         {
@@ -75771,14 +75855,6 @@
           "tier": "medium"
         },
         {
-          "player": "Isaiah Bond",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "questionable",
-          "tier": "high"
-        },
-        {
           "player": "Dillon Gabriel",
           "playerId": "",
           "status": "out",
@@ -75812,6 +75888,14 @@
         }
       ],
       "Dallas Cowboys": [
+        {
+          "player": "Tyler Smith",
+          "playerId": "",
+          "status": "doubtful",
+          "position": "G",
+          "description": "Smith is set to undergo surgery on his injured thumb, Joe Hoyt of The Dallas Morning News reports.",
+          "tier": "low"
+        },
         {
           "player": "DJ Rogers",
           "playerId": "",
@@ -76063,14 +76147,6 @@
           "position": "DT",
           "description": "questionable",
           "tier": "medium"
-        },
-        {
-          "player": "D.J. Reed",
-          "playerId": "",
-          "status": "questionable",
-          "position": "CB",
-          "description": "questionable",
-          "tier": "high"
         }
       ],
       "Green Bay Packers": [
@@ -76319,14 +76395,6 @@
           "tier": "high"
         },
         {
-          "player": "Coleman Owen",
-          "playerId": "",
-          "status": "out",
-          "position": "WR",
-          "description": "Owen (concussion) was placed on injured reserve by the Colts on Sunday, JJ Stankevitz of the team's official website reports.",
-          "tier": "high"
-        },
-        {
           "player": "D.J. Montgomery",
           "playerId": "",
           "status": "out",
@@ -76401,14 +76469,6 @@
           "tier": "high"
         },
         {
-          "player": "Carter Bradley",
-          "playerId": "",
-          "status": "out",
-          "position": "QB",
-          "description": "Bradley (thumb) reverted to Jacksonville's injured reserve Monday, per the NFL's transaction log.",
-          "tier": "elite"
-        },
-        {
           "player": "Sam Mustipher",
           "playerId": "",
           "status": "out",
@@ -76453,6 +76513,14 @@
           "playerId": "",
           "status": "out",
           "position": "LB",
+          "description": "ir",
+          "tier": "medium"
+        },
+        {
+          "player": "Garrett DiGiorgio",
+          "playerId": "",
+          "status": "out",
+          "position": "OT",
           "description": "ir",
           "tier": "medium"
         }
@@ -76615,11 +76683,19 @@
       ],
       "Los Angeles Chargers": [
         {
+          "player": "Brenen Thompson",
+          "playerId": "",
+          "status": "questionable",
+          "position": "WR",
+          "description": "Thompson (undisclosed) was a participant in Monday's practice, Alex Insdorf of BoltBeat.com reports.",
+          "tier": "high"
+        },
+        {
           "player": "Keaton Mitchell",
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Mitchell (undisclosed) remained a non-participant in Thursday's practice, Kris Rhim of ESPN.com reports.",
+          "description": "Mitchell (undisclosed) returned to practice Monday, Kris Rhim of ESPN.com reports.",
           "tier": "medium"
         },
         {
@@ -76677,14 +76753,6 @@
           "position": "PK",
           "description": "Dicker is \"working through something,\" but head coach Jim Harbaugh is not concerned about his status, according to Alex Insdorf of BoltBeat.com.",
           "tier": "low"
-        },
-        {
-          "player": "Brenen Thompson",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "Thompson (undisclosed) was on the field for Sunday's training camp practice, Kris Rhim of ESPN.com reports.",
-          "tier": "high"
         },
         {
           "player": "Tyler Biadasz",
@@ -76807,7 +76875,7 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Gordon (ribs) is practicing in a non-contact jersey Wednesday, Alain Poupart of SI.com reports.",
+          "description": "Gordon (ribs) was able to practice with contact in Monday's practice, David Furones of the South Florida Sun Sentinel reports.",
           "tier": "medium"
         },
         {
@@ -76848,14 +76916,6 @@
           "status": "out",
           "position": "DT",
           "description": "Grant (leg) was placed on injured reserve by the Dolphins on Sunday with a designation to return.",
-          "tier": "medium"
-        },
-        {
-          "player": "Will Kacmarek",
-          "playerId": "",
-          "status": "questionable",
-          "position": "TE",
-          "description": "Kacmarek (undisclosed) is considered week-to-week as of Saturday, Barry Jackson of the Miami Herald reports.",
           "tier": "medium"
         },
         {
@@ -76943,19 +77003,11 @@
       ],
       "New England Patriots": [
         {
-          "player": "Christian Barmore",
-          "playerId": "",
-          "status": "questionable",
-          "position": "DT",
-          "description": "Barmore (knee) did not participate in Sunday's practice.",
-          "tier": "medium"
-        },
-        {
           "player": "Ben Brown",
           "playerId": "",
-          "status": "questionable",
+          "status": "out",
           "position": "C",
-          "description": "questionable",
+          "description": "Brown (knee) has been ruled out for the Patriots' Week 1 matchup against the Seahawks on Wednesday, Curtis Crabtree of Fox 13 Seattle reprots.",
           "tier": "medium"
         },
         {
@@ -76963,7 +77015,7 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports.",
+          "description": "Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports.",
           "tier": "medium"
         },
         {
@@ -77225,6 +77277,14 @@
           "position": "CB",
           "description": "questionable",
           "tier": "high"
+        },
+        {
+          "player": "Jarrick Bernard-Converse",
+          "playerId": "",
+          "status": "out",
+          "position": "CB",
+          "description": "ir",
+          "tier": "high"
         }
       ],
       "New York Jets": [
@@ -77335,6 +77395,14 @@
       ],
       "Philadelphia Eagles": [
         {
+          "player": "Jonathan Greenard",
+          "playerId": "",
+          "status": "questionable",
+          "position": "LB",
+          "description": "The Eagles activated Greenard (pectoral) off the active/PUP list on Aug. 30, Chris McPherson of the team's official site reports.",
+          "tier": "medium"
+        },
+        {
           "player": "Andre' Sam",
           "playerId": "",
           "status": "out",
@@ -77388,14 +77456,6 @@
           "status": "questionable",
           "position": "DT",
           "description": "Young (shoulder) did not participate in Wednesday's practice, Dave Zangaro of NBC Sports Philadelphia reports.",
-          "tier": "medium"
-        },
-        {
-          "player": "Jonathan Greenard",
-          "playerId": "",
-          "status": "out",
-          "position": "LB",
-          "description": "The Eagles are worried Greenard (pectoral) could miss the Week 1 divisional showdown with the Commanders due to injury, Mike Garafolo of NFL Network reports.",
           "tier": "medium"
         },
         {
@@ -77499,36 +77559,52 @@
       ],
       "San Francisco 49ers": [
         {
-          "player": "Nick Bosa",
+          "player": "George Kittle",
           "playerId": "",
           "status": "questionable",
-          "position": "DE",
-          "description": "Bosa (knee) was not participating in drills in the early portion of Monday's practice that was open to the media, Matt Maiocco of NBC Sports Bay Area reports.",
-          "tier": "high"
+          "position": "TE",
+          "description": "Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports.",
+          "tier": "medium"
         },
         {
           "player": "Christian McCaffrey",
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "McCaffrey (undisclosed) was not participating in drills in the early portion of the 49ers' practice Monday morning in Australia, Matt Maiocco of NBC Sports Bay Area reports.",
+          "description": "McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
           "tier": "medium"
         },
         {
-          "player": "George Kittle",
+          "player": "De'Zhaun Stribling",
           "playerId": "",
           "status": "questionable",
-          "position": "TE",
-          "description": "Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports.",
-          "tier": "medium"
+          "position": "WR",
+          "description": "Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+          "tier": "high"
+        },
+        {
+          "player": "Nick Bosa",
+          "playerId": "",
+          "status": "questionable",
+          "position": "DE",
+          "description": "San Francisco defensive coordinator Raheem Morris said Monday that Bosa (knee) will play in Thursday's Week 1 matchup against the Rams, Harrison Rich of the San Francisco Chronicle reports.",
+          "tier": "high"
         },
         {
           "player": "Sam Okuayinonu",
           "playerId": "",
           "status": "out",
           "position": "DT",
-          "description": "The 49ers placed Okuayinonu (foot) on injured reserve Friday.",
+          "description": "Okuayinonu broke his foot in practice last week and is set to have surgery to repair the issue, Matt Barrows of The Athletic reports.",
           "tier": "medium"
+        },
+        {
+          "player": "Mike Evans",
+          "playerId": "",
+          "status": "questionable",
+          "position": "WR",
+          "description": "Evans (adductor) was spotted on the field in full uniform during the open portion of Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports.",
+          "tier": "high"
         },
         {
           "player": "Kyle Juszczyk",
@@ -77537,14 +77613,6 @@
           "position": "FB",
           "description": "Juszczyk (finger) was a full participant in Wednesday's practice, Nick Wagoner of ESPN.com reports.",
           "tier": "low"
-        },
-        {
-          "player": "Mike Evans",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "Evans (groin) returned to practice Wednesday, Nick Wagoner of ESPN.com reports.",
-          "tier": "high"
         },
         {
           "player": "Nick Martin",
@@ -77619,14 +77687,6 @@
           "tier": "high"
         },
         {
-          "player": "De'Zhaun Stribling",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports.",
-          "tier": "high"
-        },
-        {
           "player": "Kurtis Rourke",
           "playerId": "",
           "status": "questionable",
@@ -77641,19 +77701,27 @@
           "playerId": "",
           "status": "questionable",
           "position": "S",
-          "description": "Okada (hamstring) did not participate in Sunday's practice, John Boyle of the Seahawks' official site reports.",
+          "description": "Okada (hamstring) did not participate in Monday's practice, Corbin K. Smith of SI.com reports.",
+          "tier": "medium"
+        },
+        {
+          "player": "Nick Emmanwori",
+          "playerId": "",
+          "status": "questionable",
+          "position": "S",
+          "description": "Emmanwori (ankle) again was limited at Monday's practice, but coach Mike Macdonald said he \"did the most work he has yet,\" John Boyle of the Seahawks' official site reports.",
+          "tier": "medium"
+        },
+        {
+          "player": "Zach Charbonnet",
+          "playerId": "",
+          "status": "out",
+          "position": "RB",
+          "description": "Coach Mike Macdonald said Monday that Charbonnet (knee) looks \"awesome\" in his rehab from a torn ACL, Gregg Bell of The Tacoma News Tribune reports.",
           "tier": "medium"
         },
         {
           "player": "Josh Jones",
-          "playerId": "",
-          "status": "questionable",
-          "position": "G",
-          "description": "questionable",
-          "tier": "low"
-        },
-        {
-          "player": "Anthony Bradford",
           "playerId": "",
           "status": "questionable",
           "position": "G",
@@ -77667,14 +77735,6 @@
           "position": "WR",
           "description": "Horton was limited at Sunday's practice due to a hamstring injury, John Boyle of the Seahawks' official site reports.",
           "tier": "high"
-        },
-        {
-          "player": "Nick Emmanwori",
-          "playerId": "",
-          "status": "questionable",
-          "position": "S",
-          "description": "Emmanwori (ankle) was a limited practice participant Sunday, John Boyle of the Seahawks' official site reports.",
-          "tier": "medium"
         },
         {
           "player": "Aaron Smith",
@@ -77691,14 +77751,6 @@
           "position": "WR",
           "description": "Charles (undisclosed) was placed on injured reserve by the Seahawks on Sunday with a designation to return, John Boyle of the team's official website reports.",
           "tier": "high"
-        },
-        {
-          "player": "Zach Charbonnet",
-          "playerId": "",
-          "status": "out",
-          "position": "RB",
-          "description": "The Seahawks moved Charbonnet (knee) from the active/PUP list to the reserve/PUP list Sunday, Curtis Crabtree of Fox 13 Seattle reports.",
-          "tier": "medium"
         },
         {
           "player": "Terrion Arnold",
@@ -77723,32 +77775,24 @@
           "playerId": "",
           "status": "questionable",
           "position": "RB",
-          "description": "Tucker (undisclosed) didn't practice Wednesday, Greg Auman of Fox Sports reports.",
+          "description": "Coach Todd Bowles said Monday that Tucker (undisclosed) will likely be a game-time decision for Sunday's game against the Bengals, Greg Auman of Fox Sports reports.",
           "tier": "medium"
-        },
-        {
-          "player": "Emeka Egbuka",
-          "playerId": "",
-          "status": "questionable",
-          "position": "WR",
-          "description": "Egbuka (toe) worked on a side field with trainers Wednesday and ran without any obvious issues from the injury, Rick Stroud of the Tampa Bay Times reports.",
-          "tier": "high"
         },
         {
           "player": "Jalen McMillan",
           "playerId": "",
           "status": "questionable",
           "position": "WR",
-          "description": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports.",
+          "description": "McMillan (knee) was on the field running routes at Monday's practice, PewterReport.com reports.",
           "tier": "high"
         },
         {
-          "player": "Xavier Williams",
+          "player": "Emeka Egbuka",
           "playerId": "",
-          "status": "out",
-          "position": "S",
-          "description": "Williams (hip) reverted to the Buccaneers' injured-reserve list Monday, per the NFL's transaction log.",
-          "tier": "medium"
+          "status": "questionable",
+          "position": "WR",
+          "description": "Egbuka (toe) is \"participating in warmups and running routes\" at Monday's practice, according to Pewter Report.",
+          "tier": "high"
         },
         {
           "player": "Mohamed Kamara",
@@ -77792,6 +77836,14 @@
         }
       ],
       "Tennessee Titans": [
+        {
+          "player": "Cedric Gray",
+          "playerId": "",
+          "status": "questionable",
+          "position": "LB",
+          "description": "Gray got in a UTV accident over the weekend and had to enter the NFL's concussion protocol, Turron Davenport of ESPN.com reports.",
+          "tier": "medium"
+        },
         {
           "player": "Carnell Tate",
           "playerId": "",
@@ -77891,6 +77943,14 @@
       ],
       "Washington Commanders": [
         {
+          "player": "Odafe Oweh",
+          "playerId": "",
+          "status": "questionable",
+          "position": "LB",
+          "description": "Oweh (calf) took part in the Commanders' walk-through session Monday, JP Finlay of NBC Sports Washington reports.",
+          "tier": "medium"
+        },
+        {
           "player": "Curtis Jacobs",
           "playerId": "",
           "status": "out",
@@ -77984,14 +78044,6 @@
           "status": "questionable",
           "position": "TE",
           "description": "Commanders head coach Dan Quinn said that Sinnott is dealing with an oblique injury and is unlikely to play in Friday's preseason finale versus the Ravens, Nicki Jhabvala of The Athletic reports.",
-          "tier": "medium"
-        },
-        {
-          "player": "Tim Settle",
-          "playerId": "",
-          "status": "questionable",
-          "position": "DT",
-          "description": "Settle (calf) will not play against the Lions in Saturday's preseason game.",
           "tier": "medium"
         }
       ]

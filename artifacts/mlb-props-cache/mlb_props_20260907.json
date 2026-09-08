@@ -372,5 +372,27 @@
     "event_away": "TOR",
     "source": "fanduel",
     "_event_id": "36038568"
+  },
+  {
+    "player": "Cam Schlittler",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": -125,
+    "under_price": -102,
+    "event_home": "NYY",
+    "event_away": "COL",
+    "source": "fanduel",
+    "_event_id": "36043201"
+  },
+  {
+    "player": "Gabriel Hughes",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -142,
+    "under_price": 112,
+    "event_home": "NYY",
+    "event_away": "COL",
+    "source": "fanduel",
+    "_event_id": "36043201"
   }
 ]

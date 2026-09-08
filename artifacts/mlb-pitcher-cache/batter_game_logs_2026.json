@@ -84101,6 +84101,25 @@
       "opp_pitcher_id": 607074,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "624512": [
@@ -117693,6 +117712,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "682928": [
@@ -120277,6 +120315,25 @@
       "tb": 4,
       "lineup_slot": 4,
       "opp_pitcher_id": 680736,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 4,
+      "opp_pitcher_id": 601713,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -127165,6 +127222,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 2,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "695578": [
@@ -129409,6 +129485,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 4,
+      "ab": 4,
+      "h": 1,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 2,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "696285": [
@@ -131634,6 +131729,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 9,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "660688": [
@@ -133344,6 +133458,25 @@
       "tb": 3,
       "lineup_slot": 0,
       "opp_pitcher_id": 607192,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 601713,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -296116,6 +296249,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 4,
+      "h": 3,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 4,
+      "lineup_slot": 5,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "657757": [
@@ -302088,6 +302240,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 4,
+      "h": 2,
+      "doubles": 1,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 3,
+      "lineup_slot": 3,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "609280": [
@@ -306158,6 +306329,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 4,
+      "h": 3,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 3,
+      "lineup_slot": 1,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "593428": [
@@ -308744,6 +308934,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 3,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 1,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 8,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "630105": [
@@ -310454,6 +310663,25 @@
       "tb": 4,
       "lineup_slot": 2,
       "opp_pitcher_id": 543037,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 4,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 663623,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -597008,6 +597236,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 1,
+      "tb": 0,
+      "lineup_slot": 6,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "664034": [
@@ -599136,6 +599383,25 @@
       "tb": 0,
       "lineup_slot": 4,
       "opp_pitcher_id": 543037,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 4,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 4,
+      "opp_pitcher_id": 663623,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -604753,6 +605019,25 @@
       "tb": 0,
       "lineup_slot": 6,
       "opp_pitcher_id": 607192,
+      "opp_pitcher_hand": "",
+      "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 2,
+      "ab": 2,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 601713,
       "opp_pitcher_hand": "",
       "is_home": false
     }
@@ -703518,6 +703803,25 @@
       "opp_pitcher_id": 543037,
       "opp_pitcher_hand": "",
       "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 3,
+      "ab": 3,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 663623,
+      "opp_pitcher_hand": "",
+      "is_home": true
     }
   ],
   "663609": [
@@ -792363,6 +792667,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 4,
+      "ab": 4,
+      "h": 2,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 1,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 5,
+      "lineup_slot": 3,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "606115": [
@@ -809173,6 +809496,25 @@
       "tb": 0,
       "lineup_slot": 8,
       "opp_pitcher_id": 607074,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 1,
+      "ab": 0,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 1,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 7,
+      "opp_pitcher_id": 663623,
       "opp_pitcher_hand": "",
       "is_home": true
     }
@@ -835517,6 +835859,25 @@
       "opp_pitcher_id": 680736,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 4,
+      "ab": 4,
+      "h": 1,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 1,
+      "lineup_slot": 2,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "676551": [
@@ -847809,6 +848170,25 @@
       "opp_pitcher_id": 607192,
       "opp_pitcher_hand": "",
       "is_home": false
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "WSH",
+      "opp": "SD",
+      "pa": 1,
+      "ab": 1,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 1,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 601713,
+      "opp_pitcher_hand": "",
+      "is_home": false
     }
   ],
   "807726": [
@@ -848353,6 +848733,25 @@
       "tb": 0,
       "lineup_slot": 9,
       "opp_pitcher_id": 543037,
+      "opp_pitcher_hand": "",
+      "is_home": true
+    },
+    {
+      "game_date": "2026-09-07",
+      "team": "SD",
+      "opp": "WSH",
+      "pa": 2,
+      "ab": 2,
+      "h": 0,
+      "doubles": 0,
+      "triples": 0,
+      "hr": 0,
+      "bb": 0,
+      "k": 0,
+      "hbp": 0,
+      "tb": 0,
+      "lineup_slot": 0,
+      "opp_pitcher_id": 663623,
       "opp_pitcher_hand": "",
       "is_home": true
     }

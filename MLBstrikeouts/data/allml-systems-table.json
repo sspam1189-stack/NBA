@@ -1,23 +1,23 @@
 {
  "sport": "MLB",
  "type": "allml-systems-table",
- "generated": "2026-09-07T23:09:01Z",
+ "generated": "2026-09-08T00:38:00Z",
  "span": {
   "from": "2026-03-25",
   "to": "2026-09-07"
  },
- "games": 2158,
+ "games": 2159,
  "note": "Systems derived from mlb-all-ml.json alone -- moneylines, totals, probables, scores -- with no input from the mismatch model. Replayed as-of each game date: a game's own result is never in the features that select it. Each system carries the blind baseline it is measured against: backing every side at market price for moneylines, blind over or blind under for totals.",
  "baselines": {
-  "side": -3.2,
+  "side": -3.3,
   "over": -5.6,
-  "under": -4.0,
+  "under": -3.9,
   "parlay": 0.0
  },
  "systems": [
   {
    "baseline_key": "side",
-   "baseline": -3.2,
+   "baseline": -3.3,
    "key": "away-dog-ml",
    "name": "Away dog ML",
    "market": "h2h",
@@ -99,7 +99,7 @@
   },
   {
    "baseline_key": "side",
-   "baseline": -3.2,
+   "baseline": -3.3,
    "key": "home-slide-ml",
    "name": "Home slide ML",
    "market": "h2h",
@@ -173,7 +173,7 @@
   },
   {
    "baseline_key": "side",
-   "baseline": -3.2,
+   "baseline": -3.3,
    "key": "division-home-dog",
    "name": "Division home dog",
    "market": "h2h",
@@ -247,7 +247,7 @@
   },
   {
    "baseline_key": "side",
-   "baseline": -3.2,
+   "baseline": -3.3,
    "key": "home-dog-getaway",
    "name": "Home dog getaway",
    "market": "h2h",
@@ -477,7 +477,7 @@
   },
   {
    "baseline_key": "under",
-   "baseline": -4.0,
+   "baseline": -3.9,
    "key": "cold-arms-under",
    "name": "Cold arms under",
    "market": "totals",
@@ -633,7 +633,7 @@
   },
   {
    "baseline_key": "under",
-   "baseline": -4.0,
+   "baseline": -3.9,
    "key": "under-juice",
    "name": "Under juice",
    "market": "totals",
@@ -715,7 +715,7 @@
   },
   {
    "baseline_key": "side",
-   "baseline": -3.2,
+   "baseline": -3.3,
    "key": "hot-arm-dog-ml",
    "name": "Hot arm dog ML",
    "market": "h2h",
@@ -800,14 +800,14 @@
    "ladder_fails": false,
    "record": {
     "w": 132,
-    "l": 108,
-    "n": 240,
-    "units": 10.59,
-    "roi": 4.4
+    "l": 109,
+    "n": 241,
+    "units": 9.59,
+    "roi": 4.0
    },
    "halves": [
     2.1,
-    6.9
+    6.0
    ],
    "monthly": [
     {
@@ -861,17 +861,17 @@
     {
      "month": "2026-09",
      "w": 3,
-     "l": 4,
-     "n": 7,
-     "units": -1.26,
-     "roi": -17.9
+     "l": 5,
+     "n": 8,
+     "units": -2.26,
+     "roi": -28.2
     }
    ],
-   "per_day": 1.46
+   "per_day": 1.47
   },
   {
    "baseline_key": "under",
-   "baseline": -4.0,
+   "baseline": -3.9,
    "key": "pickem-under",
    "name": "Pickem under",
    "market": "totals",
@@ -946,21 +946,6 @@
  ],
  "today": [
   {
-   "rule": "monday-over",
-   "market": "totals",
-   "pick": "over",
-   "price": -110,
-   "side": "O",
-   "why": "Monday: travel day, light schedule, series openers",
-   "gamePk": 823254,
-   "date": "2026-09-07",
-   "commence": "2026-09-07T21:10:00Z",
-   "matchup": "WSH @ SD",
-   "away": "WSH",
-   "home": "SD",
-   "total": 8
-  },
-  {
    "rule": "hot-arm-dog-ml",
    "market": "h2h",
    "pick": "STL",
@@ -994,9 +979,24 @@
    "rule": "monday-over",
    "market": "totals",
    "pick": "over",
-   "price": -105,
+   "price": -102,
    "side": "O",
    "why": "Monday: travel day, light schedule, series openers",
+   "gamePk": 823902,
+   "date": "2026-09-07",
+   "commence": "2026-09-08T01:10:00Z",
+   "matchup": "CIN @ LAD",
+   "away": "CIN",
+   "home": "LAD",
+   "total": 8.5
+  },
+  {
+   "rule": "under-juice",
+   "market": "totals",
+   "pick": "under",
+   "price": -120,
+   "side": "U",
+   "why": "book laying -120 on the under",
    "gamePk": 823902,
    "date": "2026-09-07",
    "commence": "2026-09-08T01:10:00Z",
@@ -1009,7 +1009,7 @@
    "rule": "monday-over",
    "market": "totals",
    "pick": "over",
-   "price": -102,
+   "price": 104,
    "side": "O",
    "why": "Monday: travel day, light schedule, series openers",
    "gamePk": 824958,
@@ -1024,9 +1024,9 @@
    "rule": "under-juice",
    "market": "totals",
    "pick": "under",
-   "price": -120,
+   "price": -128,
    "side": "U",
-   "why": "book laying -120 on the under",
+   "why": "book laying -128 on the under",
    "gamePk": 824958,
    "date": "2026-09-07",
    "commence": "2026-09-08T02:05:00Z",

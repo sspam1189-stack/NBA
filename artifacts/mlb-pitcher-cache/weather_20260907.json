@@ -42,27 +42,27 @@
     "home_team": "DET"
   },
   "823254": {
-    "temp": "90",
+    "temp": "91",
     "wind": "9 mph, L To R",
     "condition": "Partly Cloudy",
     "home_team": "SD"
   },
   "823175": {
-    "temp": "66",
-    "wind": "15 mph, Out To CF",
+    "temp": "76",
+    "wind": "13 mph, Out To CF",
     "condition": "Clear",
     "home_team": "SF"
   },
   "823902": {
-    "temp": "",
-    "wind": "",
-    "condition": "",
+    "temp": "84",
+    "wind": "8 mph, Out To CF",
+    "condition": "Partly Cloudy",
     "home_team": "LAD"
   },
   "824958": {
-    "temp": "",
-    "wind": "",
-    "condition": "",
+    "temp": "84",
+    "wind": "4 mph, Out To RF",
+    "condition": "Partly Cloudy",
     "home_team": "OAK"
   }
 }

@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-ml",
-  "generated": "2026-09-07T23:03:13Z",
+  "generated": "2026-09-08T00:32:20Z",
   "fadeList": [
     "Painter",
     "Rocker",
@@ -125,7 +125,7 @@
       "market": "h2h",
       "selection": "CIN",
       "line": null,
-      "odds": 144,
+      "odds": 140,
       "stake": 1.0,
       "result": "pending",
       "profit": 0.0,

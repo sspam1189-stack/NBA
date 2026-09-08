@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "hand-tails-watch",
-  "generated": "2026-09-07T23:08:41Z",
+  "generated": "2026-09-08T00:37:41Z",
   "handMin": 6,
   "minGames": 3,
   "minUnits": 2.5,
@@ -90,7 +90,7 @@
       "oppLefty": 7,
       "oppRighty": 4,
       "lineupConfirmed": true,
-      "odds": 144,
+      "odds": 140,
       "suggest": "take",
       "suggestUnits": 5.68,
       "games": 15,
@@ -109,14 +109,14 @@
       "selection": "OAK",
       "home": "OAK",
       "away": "TOR",
-      "oppLefty": 2,
-      "oppRighty": 7,
-      "lineupConfirmed": false,
-      "odds": null,
+      "oppLefty": 3,
+      "oppRighty": 6,
+      "lineupConfirmed": true,
+      "odds": 168,
       "suggest": "take",
       "suggestUnits": 5.69,
       "games": 15,
-      "result": "unconfirmed"
+      "result": "pending"
     }
   ],
   "candidates": [

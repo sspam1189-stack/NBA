@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "hand-tails",
-  "generated": "2026-09-08T16:08:37Z",
+  "generated": "2026-09-08T18:36:09Z",
   "handMin": 6,
   "roster": {
     "Andrew Painter": {
@@ -180,12 +180,12 @@
       "selection": "BOS",
       "home": "BOS",
       "away": "LAA",
-      "oppLefty": 4,
+      "oppLefty": 3,
       "oppRighty": 7,
-      "lineupConfirmed": false,
-      "odds": null,
-      "stake": null,
-      "result": "unconfirmed",
+      "lineupConfirmed": true,
+      "odds": -144,
+      "stake": 1.44,
+      "result": "pending",
       "reason": null,
       "profit": 0.0,
       "book": "fanduel",

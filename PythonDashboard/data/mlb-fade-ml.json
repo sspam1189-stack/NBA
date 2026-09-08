@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-ml",
-  "generated": "2026-09-08T16:05:29Z",
+  "generated": "2026-09-08T18:34:38Z",
   "fadeList": [
     "Painter",
     "Rocker",
@@ -149,8 +149,8 @@
       "market": "h2h",
       "selection": "DET",
       "line": null,
-      "odds": -142,
-      "stake": 1.42,
+      "odds": -132,
+      "stake": 1.32,
       "result": "pending",
       "profit": 0.0,
       "book": "fanduel",

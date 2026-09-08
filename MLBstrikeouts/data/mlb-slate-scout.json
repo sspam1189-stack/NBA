@@ -25,11 +25,11 @@
       "away": "CLE",
       "home": "BAL",
       "commence": "2026-09-08T22:35:00Z",
-      "away_ml": 104,
-      "home_ml": -122,
-      "total": 8.5,
-      "over_ml": -104,
-      "under_ml": -118,
+      "away_ml": 100,
+      "home_ml": -118,
+      "total": 8,
+      "over_ml": -115,
+      "under_ml": -105,
       "sides": {
         "away": {
           "pitcher": "Tanner Bibee",
@@ -405,11 +405,11 @@
       "away": "MIN",
       "home": "DET",
       "commence": "2026-09-08T22:40:00Z",
-      "away_ml": 120,
-      "home_ml": -142,
+      "away_ml": 112,
+      "home_ml": -132,
       "total": 8.5,
-      "over_ml": 100,
-      "under_ml": -122,
+      "over_ml": -102,
+      "under_ml": -120,
       "sides": {
         "away": {
           "pitcher": "Dean Kremer",
@@ -780,7 +780,7 @@
       "offense_edge": 53,
       "aligned_ml": {
         "pick": "MIN",
-        "ml": 120,
+        "ml": 112,
         "away_offense": [
           110,
           115,
@@ -3388,8 +3388,8 @@
       "away_ml": 184,
       "home_ml": -220,
       "total": 7.5,
-      "over_ml": 100,
-      "under_ml": -122,
+      "over_ml": 102,
+      "under_ml": -124,
       "sides": {
         "away": {
           "pitcher": "David Peterson",
@@ -5101,8 +5101,8 @@
       "away": "CIN",
       "home": "LAD",
       "commence": "2026-09-09T02:10:00Z",
-      "away_ml": 270,
-      "home_ml": -335,
+      "away_ml": 265,
+      "home_ml": -330,
       "total": 8,
       "over_ml": -118,
       "under_ml": -104,
@@ -5743,7 +5743,7 @@
       "flags": []
     }
   ],
-  "generated": "2026-09-08T16:10:51Z",
+  "generated": "2026-09-08T18:37:13Z",
   "sport": "MLB",
   "type": "slate-scout",
   "advisory": true,

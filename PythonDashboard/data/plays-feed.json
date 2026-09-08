@@ -1,9 +1,28 @@
 {
  "sport": "MLB",
  "type": "plays-feed",
- "generated": "2026-09-08T13:13:55Z",
+ "generated": "2026-09-08T16:14:56Z",
  "note": "The scout bet log: a projection of MLBstrikeouts/data/scout-card-log.json. Results and profit are the ledger's own, settled by grade_scout_ledger.py from the finals; nothing is recomputed here. `kind` is one of card / shadow / not_bet / backfilled, and only card rows carry units; not-bet rows (which include what used to be tracked separately as shadow) fired live with no money on them, so they stay out of the units. Backfilled rows count as card (user, 2026-09-02) and keep a `backfilled` flag so they can still be isolated.",
  "bets": [
+  {
+   "date": "2026-09-08",
+   "play": "CIN/LAD U8",
+   "market": "totals",
+   "line": 8,
+   "price": -104,
+   "rule": "cold-arms-under",
+   "result": "pending",
+   "profit": 0.0,
+   "game": "CIN @ LAD",
+   "gamePk": 823901,
+   "commence": "2026-09-09T02:10:00Z",
+   "basis": "Cold arms under: both starters Nick Lodolo 38%, Tarik Skubal 38% over in last 8",
+   "open_line": 8,
+   "open_price": -104,
+   "name": "Cold arms under",
+   "group": "non-scout",
+   "kind": "card"
+  },
   {
    "date": "2026-09-08",
    "play": "CIN/LAD U8.5",
@@ -28,7 +47,7 @@
    "play": "TOR/OAK U9.5",
    "market": "totals",
    "line": 9.5,
-   "price": -110,
+   "price": -122,
    "rule": "flag-plays",
    "result": "pending",
    "profit": 0.0,
@@ -61,6 +80,25 @@
    "name": "Home dog + under",
    "group": "non-scout",
    "kind": "card"
+  },
+  {
+   "date": "2026-09-08",
+   "play": "TOR/OAK U9.5",
+   "market": "totals",
+   "line": 9.5,
+   "price": -122,
+   "rule": "under-juice",
+   "result": "pending",
+   "profit": 0.0,
+   "game": "TOR @ OAK",
+   "gamePk": 824957,
+   "commence": "2026-09-09T01:40:00Z",
+   "basis": "Under juice: book laying -122 on the under",
+   "open_line": 9.5,
+   "open_price": -122,
+   "name": "Under juice",
+   "group": "non-scout",
+   "kind": "not_bet"
   },
   {
    "date": "2026-09-08",
@@ -102,6 +140,25 @@
   },
   {
    "date": "2026-09-08",
+   "play": "CHC/MIL U7.5",
+   "market": "totals",
+   "line": 7.5,
+   "price": -122,
+   "rule": "under-juice",
+   "result": "pending",
+   "profit": 0.0,
+   "game": "CHC @ MIL",
+   "gamePk": 823738,
+   "commence": "2026-09-08T23:40:00Z",
+   "basis": "Under juice: book laying -122 on the under",
+   "open_line": 7.5,
+   "open_price": -122,
+   "name": "Under juice",
+   "group": "non-scout",
+   "kind": "not_bet"
+  },
+  {
+   "date": "2026-09-08",
    "play": "TB/ATL U8.5",
    "market": "totals",
    "line": 8.5,
@@ -121,10 +178,10 @@
   },
   {
    "date": "2026-09-08",
-   "play": "COL/NYY U8",
+   "play": "COL/NYY U7.5",
    "market": "totals",
-   "line": 8,
-   "price": -110,
+   "line": 7.5,
+   "price": -104,
    "rule": "cold-arms-under",
    "result": "pending",
    "profit": 0.0,
@@ -179,7 +236,7 @@
    "play": "NYM/MIA O8",
    "market": "totals",
    "line": 8,
-   "price": -108,
+   "price": -115,
    "rule": "starter-over-run",
    "result": "pending",
    "profit": 0.0,
@@ -41775,16 +41832,16 @@
    "w": 1222,
    "l": 1069,
    "push": 28,
-   "n": 2330,
-   "pending": 11,
+   "n": 2333,
+   "pending": 14,
    "units": 266.37
   },
   "card": {
    "w": 610,
    "l": 537,
    "push": 6,
-   "n": 1158,
-   "pending": 5,
+   "n": 1159,
+   "pending": 6,
    "units": 266.37
   },
   "by_rule": {
@@ -41832,8 +41889,8 @@
     "w": 27,
     "l": 19,
     "push": 2,
-    "n": 49,
-    "pending": 1,
+    "n": 50,
+    "pending": 2,
     "units": 4.65
    },
    "division-home-dog": {
@@ -41944,8 +42001,8 @@
     "w": 246,
     "l": 188,
     "push": 1,
-    "n": 440,
-    "pending": 5,
+    "n": 442,
+    "pending": 7,
     "units": 0
    }
   }

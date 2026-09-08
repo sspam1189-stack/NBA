@@ -25,11 +25,11 @@
       "away": "CLE",
       "home": "BAL",
       "commence": "2026-09-08T22:35:00Z",
-      "away_ml": 108,
-      "home_ml": -126,
+      "away_ml": 104,
+      "home_ml": -122,
       "total": 8.5,
-      "over_ml": -120,
-      "under_ml": -102,
+      "over_ml": -104,
+      "under_ml": -118,
       "sides": {
         "away": {
           "pitcher": "Tanner Bibee",
@@ -1181,11 +1181,11 @@
       "away": "NYM",
       "home": "MIA",
       "commence": "2026-09-08T22:40:00Z",
-      "away_ml": 116,
-      "home_ml": -134,
+      "away_ml": 108,
+      "home_ml": -126,
       "total": 8,
-      "over_ml": -108,
-      "under_ml": -112,
+      "over_ml": -115,
+      "under_ml": -105,
       "sides": {
         "away": {
           "pitcher": "Sean Manaea",
@@ -1564,8 +1564,8 @@
       "away_ml": 122,
       "home_ml": -144,
       "total": 7.5,
-      "over_ml": -122,
-      "under_ml": 100,
+      "over_ml": -112,
+      "under_ml": -108,
       "sides": {
         "away": {
           "pitcher": "Reid Detmers",
@@ -1941,11 +1941,11 @@
       "away": "COL",
       "home": "NYY",
       "commence": "2026-09-08T23:05:00Z",
-      "away_ml": 280,
-      "home_ml": -350,
-      "total": 8,
-      "over_ml": -110,
-      "under_ml": -110,
+      "away_ml": 270,
+      "home_ml": -335,
+      "total": 7.5,
+      "over_ml": -118,
+      "under_ml": -104,
       "sides": {
         "away": {
           "pitcher": "Gabriel Hughes",
@@ -2324,8 +2324,8 @@
       "away_ml": -102,
       "home_ml": -116,
       "total": 8.5,
-      "over_ml": 100,
-      "under_ml": -122,
+      "over_ml": -110,
+      "under_ml": -110,
       "sides": {
         "away": {
           "pitcher": "Freddy Peralta",
@@ -3008,8 +3008,8 @@
       "away_ml": 124,
       "home_ml": -146,
       "total": 8.5,
-      "over_ml": -102,
-      "under_ml": -120,
+      "over_ml": -106,
+      "under_ml": -114,
       "sides": {
         "away": {
           "pitcher": "Bubba Chandler",
@@ -3388,8 +3388,8 @@
       "away_ml": 184,
       "home_ml": -220,
       "total": 7.5,
-      "over_ml": -105,
-      "under_ml": -115,
+      "over_ml": 100,
+      "under_ml": -122,
       "sides": {
         "away": {
           "pitcher": "David Peterson",
@@ -3781,8 +3781,8 @@
       "away": "WSH",
       "home": "SD",
       "commence": "2026-09-09T01:40:00Z",
-      "away_ml": 158,
-      "home_ml": -188,
+      "away_ml": 154,
+      "home_ml": -184,
       "total": 7.5,
       "over_ml": -124,
       "under_ml": 102,
@@ -4099,8 +4099,8 @@
       "away": "TEX",
       "home": "SEA",
       "commence": "2026-09-09T01:40:00Z",
-      "away_ml": 116,
-      "home_ml": -134,
+      "away_ml": 122,
+      "home_ml": -144,
       "total": 8,
       "over_ml": -110,
       "under_ml": -110,
@@ -4323,11 +4323,11 @@
       "away": "TOR",
       "home": "OAK",
       "commence": "2026-09-09T01:40:00Z",
-      "away_ml": -176,
-      "home_ml": 148,
+      "away_ml": -180,
+      "home_ml": 152,
       "total": 9.5,
-      "over_ml": -110,
-      "under_ml": -110,
+      "over_ml": 100,
+      "under_ml": -122,
       "sides": {
         "away": {
           "pitcher": "Jos\u00e9 Soriano",
@@ -4721,8 +4721,8 @@
       "away": "STL",
       "home": "SF",
       "commence": "2026-09-09T01:45:00Z",
-      "away_ml": -104,
-      "home_ml": -112,
+      "away_ml": -108,
+      "home_ml": -108,
       "total": 7.5,
       "over_ml": -115,
       "under_ml": -105,
@@ -5103,9 +5103,9 @@
       "commence": "2026-09-09T02:10:00Z",
       "away_ml": 270,
       "home_ml": -335,
-      "total": 8.5,
-      "over_ml": 102,
-      "under_ml": -124,
+      "total": 8,
+      "over_ml": -118,
+      "under_ml": -104,
       "sides": {
         "away": {
           "pitcher": "Nick Lodolo",
@@ -5743,7 +5743,7 @@
       "flags": []
     }
   ],
-  "generated": "2026-09-08T13:09:37Z",
+  "generated": "2026-09-08T16:10:51Z",
   "sport": "MLB",
   "type": "slate-scout",
   "advisory": true,

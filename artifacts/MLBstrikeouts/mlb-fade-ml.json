@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "fade-ml",
-  "generated": "2026-09-08T00:32:20Z",
+  "generated": "2026-09-08T13:05:47Z",
   "fadeList": [
     "Painter",
     "Rocker",
@@ -85,21 +85,21 @@
   "mutualRule": "skip",
   "summary": {
     "wins": 523,
-    "losses": 211,
+    "losses": 213,
     "voids": 0,
     "skips": 52,
-    "staked": 919.76,
-    "units": 318.46,
-    "roi": 0.3462,
+    "staked": 922.76,
+    "units": 315.46,
+    "roi": 0.3419,
     "byType": {
       "ml": {
         "wins": 511,
-        "losses": 199,
+        "losses": 201,
         "voids": 0,
         "skips": 4,
-        "staked": 895.76,
-        "units": 313.98,
-        "roi": 0.3505
+        "staked": 898.76,
+        "units": 310.98,
+        "roi": 0.346
       },
       "ml_dog": {
         "wins": 12,
@@ -114,43 +114,67 @@
   },
   "today": [
     {
-      "date": "2026-09-07",
-      "commence": "2026-09-08T01:10:00Z",
+      "date": "2026-09-08",
+      "commence": "2026-09-08T23:05:00Z",
       "betType": "ml",
       "shadow": false,
       "pitchers": [
-        "Emmet Sheehan"
+        "Gabriel Hughes"
       ],
-      "fadeTeam": "LAD",
+      "fadeTeam": "COL",
       "market": "h2h",
-      "selection": "CIN",
+      "selection": "NYY",
       "line": null,
-      "odds": 140,
-      "stake": 1.0,
+      "odds": -350,
+      "stake": 3.5,
       "result": "pending",
       "profit": 0.0,
       "book": "fanduel",
       "source": "fanduel_api",
       "reason": null,
-      "home": "LAD",
-      "away": "CIN",
-      "gamePk": 823902,
+      "home": "NYY",
+      "away": "COL",
+      "gamePk": 823500,
       "fadeReason": "all"
     },
     {
-      "date": "2026-09-07",
-      "commence": "2026-09-08T02:05:00Z",
+      "date": "2026-09-08",
+      "commence": "2026-09-08T22:40:00Z",
       "betType": "ml",
       "shadow": false,
       "pitchers": [
-        "Jacob Lopez"
+        "Dean Kremer"
+      ],
+      "fadeTeam": "MIN",
+      "market": "h2h",
+      "selection": "DET",
+      "line": null,
+      "odds": -142,
+      "stake": 1.42,
+      "result": "pending",
+      "profit": 0.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": null,
+      "home": "DET",
+      "away": "MIN",
+      "gamePk": 824228,
+      "fadeReason": "away"
+    },
+    {
+      "date": "2026-09-08",
+      "commence": "2026-09-09T01:40:00Z",
+      "betType": "ml",
+      "shadow": false,
+      "pitchers": [
+        "Jack Perkins"
       ],
       "fadeTeam": "OAK",
       "market": "h2h",
       "selection": "TOR",
       "line": null,
-      "odds": -200,
-      "stake": 2.0,
+      "odds": -176,
+      "stake": 1.76,
       "result": "pending",
       "profit": 0.0,
       "book": "fanduel",
@@ -158,8 +182,32 @@
       "reason": null,
       "home": "OAK",
       "away": "TOR",
-      "gamePk": 824958,
-      "fadeReason": "home"
+      "gamePk": 824957,
+      "fadeReason": "all"
+    },
+    {
+      "date": "2026-09-08",
+      "commence": "2026-09-08T23:40:00Z",
+      "betType": "ml",
+      "shadow": false,
+      "pitchers": [
+        "Bubba Chandler"
+      ],
+      "fadeTeam": "PIT",
+      "market": "h2h",
+      "selection": "CWS",
+      "line": null,
+      "odds": -146,
+      "stake": 1.46,
+      "result": "pending",
+      "profit": 0.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": null,
+      "home": "CWS",
+      "away": "PIT",
+      "gamePk": 824551,
+      "fadeReason": "away"
     }
   ],
   "bets": [
@@ -19098,6 +19146,54 @@
       "away": "LAA",
       "gamePk": 824715,
       "fadeReason": "all"
+    },
+    {
+      "date": "2026-09-07",
+      "commence": "2026-09-08T01:10:00Z",
+      "betType": "ml",
+      "shadow": false,
+      "pitchers": [
+        "Emmet Sheehan"
+      ],
+      "fadeTeam": "LAD",
+      "market": "h2h",
+      "selection": "CIN",
+      "line": null,
+      "odds": 140,
+      "stake": 1.0,
+      "result": "LOSS",
+      "profit": -1.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": null,
+      "home": "LAD",
+      "away": "CIN",
+      "gamePk": 823902,
+      "fadeReason": "all"
+    },
+    {
+      "date": "2026-09-07",
+      "commence": "2026-09-08T02:05:00Z",
+      "betType": "ml",
+      "shadow": false,
+      "pitchers": [
+        "Jacob Lopez"
+      ],
+      "fadeTeam": "OAK",
+      "market": "h2h",
+      "selection": "TOR",
+      "line": null,
+      "odds": -200,
+      "stake": 2.0,
+      "result": "LOSS",
+      "profit": -2.0,
+      "book": "fanduel",
+      "source": "fanduel_api",
+      "reason": null,
+      "home": "OAK",
+      "away": "TOR",
+      "gamePk": 824958,
+      "fadeReason": "home"
     }
   ]
 }

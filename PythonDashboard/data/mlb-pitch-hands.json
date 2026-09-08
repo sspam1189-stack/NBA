@@ -1,144 +1,180 @@
 {
   "sport": "MLB",
   "type": "pitch-hands-today",
-  "date": "2026-09-07",
-  "generated": "2026-09-08T00:32:22Z",
+  "date": "2026-09-08",
+  "generated": "2026-09-08T13:05:48Z",
   "hands": {
-    "jesus luzardo": "L",
-    "grant holmes": "R",
-    "eury perez": "R",
-    "jonah tong": "R",
-    "brayan bello": "R",
-    "grayson rodriguez": "R",
-    "trevor rogers": "L",
-    "joey cantillo": "L",
-    "noah cameron": "L",
-    "derek law": "R",
-    "robert gasser": "L",
-    "matthew boyd": "L",
-    "troy melton": "R",
-    "joe ryan": "R",
-    "nick pivetta": "R",
-    "jake irvin": "R",
-    "logan webb": "R",
-    "michael mcgreevy": "R",
-    "emmet sheehan": "R",
-    "chase burns": "R",
-    "jacob lopez": "L",
-    "dylan cease": "R"
+    "brandon young": "R",
+    "tanner bibee": "R",
+    "drew anderson": "R",
+    "dean kremer": "R",
+    "andrew painter": "R",
+    "hayden wesneski": "R",
+    "sandy alcantara": "R",
+    "sean manaea": "L",
+    "patrick sandoval": "L",
+    "reid detmers": "L",
+    "cam schlittler": "R",
+    "gabriel hughes": "R",
+    "aj smith shawver": "R",
+    "freddy peralta": "R",
+    "michael wacha": "R",
+    "corbin burnes": "R",
+    "sean burke": "R",
+    "bubba chandler": "R",
+    "jacob misiorowski": "R",
+    "david peterson": "L",
+    "casey mize": "R",
+    "riley cornelio": "R",
+    "jack perkins": "R",
+    "jose soriano": "R",
+    "landen roupp": "R",
+    "quinn mathews": "L",
+    "tarik skubal": "L",
+    "nick lodolo": "L"
   },
   "names": {
-    "jesus luzardo": "Jes\u00fas Luzardo",
-    "grant holmes": "Grant Holmes",
-    "eury perez": "Eury P\u00e9rez",
-    "jonah tong": "Jonah Tong",
-    "brayan bello": "Brayan Bello",
-    "grayson rodriguez": "Grayson Rodriguez",
-    "trevor rogers": "Trevor Rogers",
-    "joey cantillo": "Joey Cantillo",
-    "noah cameron": "Noah Cameron",
-    "derek law": "Derek Law",
-    "robert gasser": "Robert Gasser",
-    "matthew boyd": "Matthew Boyd",
-    "troy melton": "Troy Melton",
-    "joe ryan": "Joe Ryan",
-    "nick pivetta": "Nick Pivetta",
-    "jake irvin": "Jake Irvin",
-    "logan webb": "Logan Webb",
-    "michael mcgreevy": "Michael McGreevy",
-    "emmet sheehan": "Emmet Sheehan",
-    "chase burns": "Chase Burns",
-    "jacob lopez": "Jacob Lopez",
-    "dylan cease": "Dylan Cease"
+    "brandon young": "Brandon Young",
+    "tanner bibee": "Tanner Bibee",
+    "drew anderson": "Drew Anderson",
+    "dean kremer": "Dean Kremer",
+    "andrew painter": "Andrew Painter",
+    "hayden wesneski": "Hayden Wesneski",
+    "sandy alcantara": "Sandy Alcantara",
+    "sean manaea": "Sean Manaea",
+    "patrick sandoval": "Patrick Sandoval",
+    "reid detmers": "Reid Detmers",
+    "cam schlittler": "Cam Schlittler",
+    "gabriel hughes": "Gabriel Hughes",
+    "aj smith shawver": "AJ Smith-Shawver",
+    "freddy peralta": "Freddy Peralta",
+    "michael wacha": "Michael Wacha",
+    "corbin burnes": "Corbin Burnes",
+    "sean burke": "Sean Burke",
+    "bubba chandler": "Bubba Chandler",
+    "jacob misiorowski": "Jacob Misiorowski",
+    "david peterson": "David Peterson",
+    "casey mize": "Casey Mize",
+    "riley cornelio": "Riley Cornelio",
+    "jack perkins": "Jack Perkins",
+    "jose soriano": "Jos\u00e9 Soriano",
+    "landen roupp": "Landen Roupp",
+    "quinn mathews": "Quinn Mathews",
+    "tarik skubal": "Tarik Skubal",
+    "nick lodolo": "Nick Lodolo"
   },
   "starters": {
-    "PHI": {
-      "name": "Jes\u00fas Luzardo",
-      "hand": "L"
-    },
-    "ATL": {
-      "name": "Grant Holmes",
-      "hand": "R"
-    },
-    "MIA": {
-      "name": "Eury P\u00e9rez",
-      "hand": "R"
-    },
-    "NYM": {
-      "name": "Jonah Tong",
-      "hand": "R"
-    },
-    "BOS": {
-      "name": "Brayan Bello",
-      "hand": "R"
-    },
-    "LAA": {
-      "name": "Grayson Rodriguez",
-      "hand": "R"
-    },
     "BAL": {
-      "name": "Trevor Rogers",
-      "hand": "L"
+      "name": "Brandon Young",
+      "hand": "R"
     },
     "CLE": {
-      "name": "Joey Cantillo",
-      "hand": "L"
-    },
-    "KC": {
-      "name": "Noah Cameron",
-      "hand": "L"
-    },
-    "ARI": {
-      "name": "Derek Law",
+      "name": "Tanner Bibee",
       "hand": "R"
     },
-    "MIL": {
-      "name": "Robert Gasser",
-      "hand": "L"
-    },
-    "CHC": {
-      "name": "Matthew Boyd",
-      "hand": "L"
-    },
     "DET": {
-      "name": "Troy Melton",
+      "name": "Drew Anderson",
       "hand": "R"
     },
     "MIN": {
-      "name": "Joe Ryan",
+      "name": "Dean Kremer",
       "hand": "R"
     },
+    "PHI": {
+      "name": "Andrew Painter",
+      "hand": "R"
+    },
+    "HOU": {
+      "name": "Hayden Wesneski",
+      "hand": "R"
+    },
+    "MIA": {
+      "name": "Sandy Alcantara",
+      "hand": "R"
+    },
+    "NYM": {
+      "name": "Sean Manaea",
+      "hand": "L"
+    },
+    "BOS": {
+      "name": "Patrick Sandoval",
+      "hand": "L"
+    },
+    "LAA": {
+      "name": "Reid Detmers",
+      "hand": "L"
+    },
+    "NYY": {
+      "name": "Cam Schlittler",
+      "hand": "R"
+    },
+    "COL": {
+      "name": "Gabriel Hughes",
+      "hand": "R"
+    },
+    "ATL": {
+      "name": "AJ Smith-Shawver",
+      "hand": "R"
+    },
+    "TB": {
+      "name": "Freddy Peralta",
+      "hand": "R"
+    },
+    "KC": {
+      "name": "Michael Wacha",
+      "hand": "R"
+    },
+    "ARI": {
+      "name": "Corbin Burnes",
+      "hand": "R"
+    },
+    "CWS": {
+      "name": "Sean Burke",
+      "hand": "R"
+    },
+    "PIT": {
+      "name": "Bubba Chandler",
+      "hand": "R"
+    },
+    "MIL": {
+      "name": "Jacob Misiorowski",
+      "hand": "R"
+    },
+    "CHC": {
+      "name": "David Peterson",
+      "hand": "L"
+    },
     "SD": {
-      "name": "Nick Pivetta",
+      "name": "Casey Mize",
       "hand": "R"
     },
     "WSH": {
-      "name": "Jake Irvin",
-      "hand": "R"
-    },
-    "SF": {
-      "name": "Logan Webb",
-      "hand": "R"
-    },
-    "STL": {
-      "name": "Michael McGreevy",
-      "hand": "R"
-    },
-    "LAD": {
-      "name": "Emmet Sheehan",
-      "hand": "R"
-    },
-    "CIN": {
-      "name": "Chase Burns",
+      "name": "Riley Cornelio",
       "hand": "R"
     },
     "OAK": {
-      "name": "Jacob Lopez",
-      "hand": "L"
+      "name": "Jack Perkins",
+      "hand": "R"
     },
     "TOR": {
-      "name": "Dylan Cease",
+      "name": "Jos\u00e9 Soriano",
       "hand": "R"
+    },
+    "SF": {
+      "name": "Landen Roupp",
+      "hand": "R"
+    },
+    "STL": {
+      "name": "Quinn Mathews",
+      "hand": "L"
+    },
+    "LAD": {
+      "name": "Tarik Skubal",
+      "hand": "L"
+    },
+    "CIN": {
+      "name": "Nick Lodolo",
+      "hand": "L"
     }
   }
 }

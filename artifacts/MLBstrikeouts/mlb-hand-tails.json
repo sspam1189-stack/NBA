@@ -1,7 +1,7 @@
 {
   "sport": "MLB",
   "type": "hand-tails",
-  "generated": "2026-09-08T00:35:33Z",
+  "generated": "2026-09-08T13:08:01Z",
   "handMin": 6,
   "roster": {
     "Andrew Painter": {
@@ -166,7 +166,32 @@
       }
     }
   },
-  "today": [],
+  "today": [
+    {
+      "date": "2026-09-08",
+      "commence": "2026-09-08T22:45:00Z",
+      "betType": "hand_fade",
+      "action": "fade",
+      "pitcher": "Reid Detmers",
+      "entry": "Reid Detmers",
+      "hand": "L",
+      "arm_team": "LAA",
+      "opp_team": "BOS",
+      "selection": "BOS",
+      "home": "BOS",
+      "away": "LAA",
+      "oppLefty": 4,
+      "oppRighty": 7,
+      "lineupConfirmed": false,
+      "odds": null,
+      "stake": null,
+      "result": "unconfirmed",
+      "reason": null,
+      "profit": 0.0,
+      "book": "fanduel",
+      "source": "fanduel_api"
+    }
+  ],
   "bets": [
     {
       "date": "2026-05-20",

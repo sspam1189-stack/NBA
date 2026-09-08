@@ -1,0 +1,272 @@
+[
+  {
+    "player": "Jacob Misiorowski",
+    "market": "strikeouts",
+    "line": 8.5,
+    "over_price": 117,
+    "under_price": -149,
+    "event_home": "MIL",
+    "event_away": "CHC",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Tarik Skubal",
+    "market": "strikeouts",
+    "line": 8.5,
+    "over_price": -120,
+    "under_price": -106,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Cam Schlittler",
+    "market": "strikeouts",
+    "line": 7.5,
+    "over_price": -131,
+    "under_price": 103,
+    "event_home": "NYY",
+    "event_away": "COL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Sean Burke",
+    "market": "strikeouts",
+    "line": 6.5,
+    "over_price": 104,
+    "under_price": -130,
+    "event_home": "CWS",
+    "event_away": "PIT",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Drew Anderson",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -137,
+    "under_price": 107,
+    "event_home": "DET",
+    "event_away": "MIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Tanner Bibee",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 118,
+    "under_price": -151,
+    "event_home": "BAL",
+    "event_away": "CLE",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Reid Detmers",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": -148,
+    "under_price": 117,
+    "event_home": "BOS",
+    "event_away": "LAA",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Sean Manaea",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 110,
+    "under_price": -137,
+    "event_home": "MIA",
+    "event_away": "NYM",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Quinn Mathews",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 114,
+    "under_price": -146,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Landen Roupp",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 126,
+    "under_price": -161,
+    "event_home": "SF",
+    "event_away": "STL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Patrick Sandoval",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": -144,
+    "under_price": 113,
+    "event_home": "BOS",
+    "event_away": "LAA",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jose Soriano",
+    "market": "strikeouts",
+    "line": 5.5,
+    "over_price": 112,
+    "under_price": -142,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Sandy Alcantara",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -116,
+    "under_price": -107,
+    "event_home": "MIA",
+    "event_away": "NYM",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Bubba Chandler",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 107,
+    "under_price": -132,
+    "event_home": "CWS",
+    "event_away": "PIT",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Gabriel Hughes",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -157,
+    "under_price": 123,
+    "event_home": "NYY",
+    "event_away": "COL",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Dean Kremer",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -109,
+    "under_price": -116,
+    "event_home": "DET",
+    "event_away": "MIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Nick Lodolo",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -157,
+    "under_price": 123,
+    "event_home": "LAD",
+    "event_away": "CIN",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Casey Mize",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -103,
+    "under_price": -124,
+    "event_home": "SD",
+    "event_away": "WAS",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Andrew Painter",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -124,
+    "under_price": 100,
+    "event_home": "PHI",
+    "event_away": "HOU",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Freddy Peralta",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": -112,
+    "under_price": -114,
+    "event_home": "ATL",
+    "event_away": "TB",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "David Peterson",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 119,
+    "under_price": -153,
+    "event_home": "MIL",
+    "event_away": "CHC",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "AJ Smith-Shawver",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -156,
+    "under_price": 122,
+    "event_home": "ATL",
+    "event_away": "TB",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Michael Wacha",
+    "market": "strikeouts",
+    "line": 4.5,
+    "over_price": 128,
+    "under_price": -164,
+    "event_home": "KC",
+    "event_away": "ARI",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Corbin Burnes",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": 142,
+    "under_price": -182,
+    "event_home": "KC",
+    "event_away": "ARI",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Jack Perkins",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -143,
+    "under_price": 112,
+    "event_home": "OAK",
+    "event_away": "TOR",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Hayden Wesneski",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -137,
+    "under_price": 107,
+    "event_home": "PHI",
+    "event_away": "HOU",
+    "source": "rotowire:draftkings"
+  },
+  {
+    "player": "Brandon Young",
+    "market": "strikeouts",
+    "line": 3.5,
+    "over_price": -138,
+    "under_price": 108,
+    "event_home": "BAL",
+    "event_away": "CLE",
+    "source": "rotowire:draftkings"
+  }
+]

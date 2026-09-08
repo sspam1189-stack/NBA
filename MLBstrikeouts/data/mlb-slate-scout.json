@@ -25,11 +25,11 @@
       "away": "CLE",
       "home": "BAL",
       "commence": "2026-09-08T22:35:00Z",
-      "away_ml": 100,
-      "home_ml": -118,
+      "away_ml": 102,
+      "home_ml": -120,
       "total": 8,
-      "over_ml": -115,
-      "under_ml": -105,
+      "over_ml": -112,
+      "under_ml": -108,
       "sides": {
         "away": {
           "pitcher": "Tanner Bibee",
@@ -405,11 +405,11 @@
       "away": "MIN",
       "home": "DET",
       "commence": "2026-09-08T22:40:00Z",
-      "away_ml": 112,
-      "home_ml": -132,
-      "total": 8.5,
-      "over_ml": -102,
-      "under_ml": -120,
+      "away_ml": 110,
+      "home_ml": -130,
+      "total": 8,
+      "over_ml": -114,
+      "under_ml": -106,
       "sides": {
         "away": {
           "pitcher": "Dean Kremer",
@@ -780,7 +780,7 @@
       "offense_edge": 53,
       "aligned_ml": {
         "pick": "MIN",
-        "ml": 112,
+        "ml": 110,
         "away_offense": [
           110,
           115,
@@ -1181,8 +1181,8 @@
       "away": "NYM",
       "home": "MIA",
       "commence": "2026-09-08T22:40:00Z",
-      "away_ml": 108,
-      "home_ml": -126,
+      "away_ml": -104,
+      "home_ml": -112,
       "total": 8,
       "over_ml": -115,
       "under_ml": -105,
@@ -1564,8 +1564,8 @@
       "away_ml": 122,
       "home_ml": -144,
       "total": 7.5,
-      "over_ml": -112,
-      "under_ml": -108,
+      "over_ml": -106,
+      "under_ml": -114,
       "sides": {
         "away": {
           "pitcher": "Reid Detmers",
@@ -1941,8 +1941,8 @@
       "away": "COL",
       "home": "NYY",
       "commence": "2026-09-08T23:05:00Z",
-      "away_ml": 270,
-      "home_ml": -335,
+      "away_ml": 290,
+      "home_ml": -360,
       "total": 7.5,
       "over_ml": -118,
       "under_ml": -104,
@@ -2324,8 +2324,8 @@
       "away_ml": -102,
       "home_ml": -116,
       "total": 8.5,
-      "over_ml": -110,
-      "under_ml": -110,
+      "over_ml": -114,
+      "under_ml": -106,
       "sides": {
         "away": {
           "pitcher": "Freddy Peralta",
@@ -2713,18 +2713,34 @@
           "pitcher": "Corbin Burnes",
           "listed_as": "Corbin Burnes",
           "resolved": false,
-          "hand": null,
+          "hand": "R",
           "team": "ARI",
           "opponent_offense": "KC",
-          "opp_wrc_vs_hand": null,
-          "opp_wrc_game": null,
-          "opp_wrc_recent": null,
-          "opp_wrc_recent_pa": null,
+          "opp_wrc_vs_hand": 129,
+          "opp_wrc_game": 129,
+          "opp_wrc_recent": 112,
+          "opp_wrc_recent_pa": 795,
           "opp_wrc_windows": {
-            "last30": null,
-            "last20": null,
-            "last15": null,
-            "last7": null
+            "last30": {
+              "wrcplus": 118,
+              "pa": 644,
+              "role": "all"
+            },
+            "last20": {
+              "wrcplus": 129,
+              "pa": 491,
+              "role": "all"
+            },
+            "last15": {
+              "wrcplus": 123,
+              "pa": 389,
+              "role": "all"
+            },
+            "last7": {
+              "wrcplus": 120,
+              "pa": 222,
+              "role": "all"
+            }
           },
           "opp_platoon_gap": -17,
           "form": {
@@ -2806,10 +2822,10 @@
           ],
           "mismatch": null,
           "aligned75": [
-            null,
-            null,
-            null,
-            null
+            118,
+            129,
+            123,
+            120
           ]
         },
         "home": {
@@ -2994,10 +3010,10 @@
           ]
         }
       },
-      "home_offense_game": null,
+      "home_offense_game": 129,
       "away_offense_game": 85,
-      "game_offense": null,
-      "offense_edge": null,
+      "game_offense": 107,
+      "offense_edge": -44,
       "aligned_ml": null
     },
     {
@@ -3385,8 +3401,8 @@
       "away": "CHC",
       "home": "MIL",
       "commence": "2026-09-08T23:40:00Z",
-      "away_ml": 184,
-      "home_ml": -220,
+      "away_ml": 180,
+      "home_ml": -215,
       "total": 7.5,
       "over_ml": 102,
       "under_ml": -124,
@@ -4099,38 +4115,118 @@
       "away": "TEX",
       "home": "SEA",
       "commence": "2026-09-09T01:40:00Z",
-      "away_ml": 122,
-      "home_ml": -144,
+      "away_ml": 114,
+      "home_ml": -134,
       "total": 8,
-      "over_ml": -110,
-      "under_ml": -110,
+      "over_ml": -106,
+      "under_ml": -114,
       "sides": {
         "away": {
-          "pitcher": null,
-          "listed_as": null,
-          "resolved": false,
-          "hand": null,
+          "pitcher": "Cal Quantrill",
+          "listed_as": "Cal Quantrill",
+          "resolved": true,
+          "hand": "R",
           "team": "TEX",
           "opponent_offense": "SEA",
-          "opp_wrc_vs_hand": null,
-          "opp_wrc_game": null,
-          "opp_wrc_recent": null,
-          "opp_wrc_recent_pa": null,
+          "opp_wrc_vs_hand": 117,
+          "opp_wrc_game": 115,
+          "opp_wrc_recent": 109,
+          "opp_wrc_recent_pa": 675,
           "opp_wrc_windows": {
-            "last30": null,
-            "last20": null,
-            "last15": null,
-            "last7": null
+            "last30": {
+              "wrcplus": 120,
+              "pa": 569,
+              "role": "all"
+            },
+            "last20": {
+              "wrcplus": 117,
+              "pa": 409,
+              "role": "all"
+            },
+            "last15": {
+              "wrcplus": 125,
+              "pa": 319,
+              "role": "all"
+            },
+            "last7": {
+              "wrcplus": null,
+              "pa": 147,
+              "role": "all"
+            }
           },
           "opp_platoon_gap": -56,
           "form": {
-            "season": null,
-            "recent": null,
-            "hot": null,
-            "recent_all": null,
+            "season": {
+              "gs": 12,
+              "ip": 63.3,
+              "ip_per_gs": 5.28,
+              "era": 2.27,
+              "whip": 0.96,
+              "k_pct": 21.1,
+              "bb_pct": 4.4,
+              "k_bb_pct": 16.7,
+              "hr9": 1.14,
+              "k": 53,
+              "bb": 11,
+              "hr": 8,
+              "er": 16
+            },
+            "recent": {
+              "gs": 5,
+              "ip": 31.0,
+              "ip_per_gs": 6.2,
+              "era": 1.16,
+              "whip": 0.81,
+              "k_pct": 25.6,
+              "bb_pct": 4.3,
+              "k_bb_pct": 21.4,
+              "hr9": 0.58,
+              "k": 30,
+              "bb": 5,
+              "hr": 2,
+              "er": 4
+            },
+            "hot": {
+              "gs": 3,
+              "ip": 19.0,
+              "ip_per_gs": 6.33,
+              "era": 1.42,
+              "whip": 0.74,
+              "k_pct": 27.1,
+              "bb_pct": 2.9,
+              "k_bb_pct": 24.3,
+              "hr9": 0.95,
+              "k": 19,
+              "bb": 2,
+              "hr": 2,
+              "er": 3
+            },
+            "recent_all": {
+              "g": 5,
+              "ip": 31.0,
+              "ip_per_g": 6.2,
+              "era": 1.16,
+              "whip": 0.81,
+              "k_pct": 25.6,
+              "bb_pct": 4.3,
+              "k_bb_pct": 21.4,
+              "hr9": 0.58,
+              "k": 30,
+              "bb": 5,
+              "hr": 2,
+              "er": 4,
+              "gs": 5
+            },
             "relief": null
           },
-          "trend": {},
+          "trend": {
+            "era": -1.11,
+            "whip": -0.15,
+            "k_pct": 4.5,
+            "bb_pct": -0.1,
+            "ip_per_gs": 0.92,
+            "hr9": -0.56
+          },
           "pen": {
             "last30": {
               "g": 94,
@@ -4197,15 +4293,13 @@
               "rank": 27
             }
           },
-          "flags": [
-            "thin-sample"
-          ],
-          "mismatch": null,
+          "flags": [],
+          "mismatch": -16.6,
           "aligned75": [
-            null,
-            null,
-            null,
-            null
+            120,
+            117,
+            125,
+            171
           ]
         },
         "home": {
@@ -4312,7 +4406,7 @@
           ]
         }
       },
-      "home_offense_game": null,
+      "home_offense_game": 115,
       "away_offense_game": null,
       "game_offense": null,
       "offense_edge": null,
@@ -4326,8 +4420,8 @@
       "away_ml": -180,
       "home_ml": 152,
       "total": 9.5,
-      "over_ml": 100,
-      "under_ml": -122,
+      "over_ml": 102,
+      "under_ml": -124,
       "sides": {
         "away": {
           "pitcher": "Jos\u00e9 Soriano",
@@ -5683,6 +5777,16 @@
       "flags": []
     },
     {
+      "pitcher": "Cal Quantrill",
+      "hand": "R",
+      "team": "TEX",
+      "opponent_offense": "SEA",
+      "opp_wrc_vs_hand": 117,
+      "opp_wrc_recent": 109,
+      "mismatch": -16.6,
+      "flags": []
+    },
+    {
       "pitcher": "Reid Detmers",
       "hand": "L",
       "team": "LAA",
@@ -5743,7 +5847,7 @@
       "flags": []
     }
   ],
-  "generated": "2026-09-08T18:37:13Z",
+  "generated": "2026-09-08T21:06:42Z",
   "sport": "MLB",
   "type": "slate-scout",
   "advisory": true,
